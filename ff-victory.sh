@@ -1,10 +1,11 @@
+#!/bin/tcsh
 # https://ubuntuforums.org/showthread.php?t=1157670&page=4
-beep -f 784 -r 3 -l 100
+repeat 3 beep -p 784  10.0
 sleep .1
-beep -f 784 -l 600
-beep -f 622 -l 600
-beep -f 698 -l 600
-beep -f 784 -l 200
+beep -p 784  60.0
+beep -p 622  60.0
+beep -p 698  60.0
+beep -p 784  20.0
 sleep .2
-beep -f 698 -l 200
-beep -f 784 -l 800
+beep -p 698  20.0
+beep -p 784  80.0
