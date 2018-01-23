@@ -1,8 +1,5 @@
-#!/bin/bash
+#!/bin/sh
 
-# https://www.kirrus.co.uk/2014/02/linux-beep-music-2/
-
-#Note Frequency
 C=261.6
 C1=277.2
 D=293.7
@@ -32,34 +29,34 @@ C3=1046.50
 
 #First
 
-beep -f $G -l 250
-beep -f $G -l 500
-beep -f $G -l 250
-beep -f $G -l 250
+beep -p $G  25.0
+beep -p $G  50.0
+beep -p $G  25.0
+beep -p $G  25.0
 
-beep -f $A1 -l 250
-beep -f $C -l 250
-beep -f $G -l 250
-beep -f $G -l 250
-beep -f $G -l 250
-beep -f $G -l 250
-beep -f $F -l 250
-beep -f $F1 -l 250
-beep -f $G -l 500
-beep -f 10 -l 500
+beep -p $A1  25.0
+beep -p $C  25.0
+beep -p $G  25.0
+beep -p $G  25.0
+beep -p $G  25.0
+beep -p $G  25.0
+beep -p $F  25.0
+beep -p $F1  25.0
+beep -p $G  50.0
+beep -p 10  50.0
 
-beep -f $G -l 250
-beep -f $G -l 500
-beep -f $G -l 250
-beep -f $G -l 250
+beep -p $G  25.0
+beep -p $G  50.0
+beep -p $G  25.0
+beep -p $G  25.0
 
-beep -f $A1 -l 250
-beep -f $C -l 250
-beep -f $G -l 250
-beep -f $G -l 250
-beep -f $G -l 250
-beep -f $G -l 250
-beep -f $F -l 250
-beep -f $F1 -l 250
-beep -f $G -l 500
-beep -f 10 -l 500
+beep -p $A1  25.0
+beep -p $C  25.0
+beep -p $G  25.0
+beep -p $G  25.0
+beep -p $G  25.0
+beep -p $G  25.0
+beep -p $F  25.0
+beep -p $F1  25.0
+beep -p $G  50.0
+beep -p 10  50.0
