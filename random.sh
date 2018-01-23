@@ -1,2 +1,18 @@
 # https://www.kirrus.co.uk/2010/09/linux-beep-music/
-beep -f 1000 -n -f 1500 -n -f 600 -n -f 500 -n -f 100 -r 2 -l 10 -n -f 50 -r 2 -l 200 -n -f 40 -r 2 -l 300 -n -f 60 -r 3 -n -f 50 -r 3
+beep -p 1000 
+beep -p 1500 
+beep -p 600 
+beep -p 500 
+beep -p 100   1
+beep -p 100   1 
+beep -p 50   20 
+beep -p 50   20 
+beep -p 40   30
+beep -p 40   30 
+beep -p 60  
+beep -p 60  
+beep -p 60  
+beep -p 50 
+beep -p 50 
+beep -p 50 
+
