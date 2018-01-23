@@ -1,2 +1,2119 @@
 # https://www.kirrus.co.uk/2010/09/linux-beep-music/
-beep -n -f 146 -l 20 -D 0 -n -f 369 -l 20 -D 0 -n -f 659 -l 20 -D 47 -n -f 146 -l 20 -D 0 -n -f 369 -l 20 -D 0 -n -f 659 -l 20 -D 189 -n -f 146 -l 20 -D 0 -n -f 369 -l 20 -D 0 -n -f 659 -l 20 -D 190 -n -f 146 -l 20 -D 0 -n -f 369 -l 20 -D 0 -n -f 523 -l 20 -D 47 -n -f 146 -l 20 -D 0 -n -f 369 -l 20 -D 0 -n -f 659 -l 20 -D 190 -n -f 391 -l 20 -D 0 -n -f 493 -l 20 -D 0 -n -f 783 -l 20 -D 475 -n -f 195 -l 20 -D 0 -n -f 391 -l 20 -n -f 195 -l 20 -D 0 -n -f 391 -l 20 -D 473 -n -f 195 -l 20 -D 0 -n -f 329 -l 20 -D 0 -n -f 523 -l 20 -D 332 -n -f 164 -l 20 -D 0 -n -f 261 -l 20 -D 0 -n -f 391 -l 20 -D 332 -n -f 130 -l 20 -D 0 -n -f 195 -l 20 -D 0 -n -f 329 -l 20 -D 332 -n -f 174 -l 20 -D 0 -n -f 261 -l 20 -D 0 -n -f 440 -l 20 -D 189 -n -f 195 -l 20 -D 0 -n -f 293 -l 20 -D 0 -n -f 493 -l 20 -D 189 -n -f 184 -l 20 -D 0 -n -f 277 -l 20 -D 0 -n -f 466 -l 20 -D 47 -n -f 174 -l 20 -D 0 -n -f 261 -l 20 -D 0 -n -f 440 -l 20 -D 190 -n -f 164 -l 20 -D 0 -n -f 261 -l 20 -D 0 -n -f 391 -l 20 -D 95 -n -f 261 -l 20 -D 0 -n -f 391 -l 20 -D 0 -n -f 659 -l 20 -D 95 -n -f 329 -l 20 -D 0 -n -f 493 -l 20 -D 0 -n -f 783 -l 20 -D 95 -n -f 349 -l 20 -D 0 -n -f 523 -l 20 -D 0 -n -f 880 -l 20 -D 190 -n -f 293 -l 20 -D 0 -n -f 440 -l 20 -D 0 -n -f 698 -l 20 -D 47 -n -f 329 -l 20 -D 0 -n -f 493 -l 20 -D 0 -n -f 783 -l 20 -D 189 -n -f 261 -l 20 -D 0 -n -f 440 -l 20 -D 0 -n -f 659 -l 20 -D 189 -n -f 220 -l 20 -D 0 -n -f 329 -l 20 -D 0 -n -f 523 -l 20 -D 47 -n -f 246 -l 20 -D 0 -n -f 349 -l 20 -D 0 -n -f 587 -l 20 -D 47 -n -f 195 -l 20 -D 0 -n -f 293 -l 20 -D 0 -n -f 493 -l 20 -D 332 -n -f 195 -l 20 -D 0 -n -f 329 -l 20 -D 0 -n -f 523 -l 20 -D 332 -n -f 164 -l 20 -D 0 -n -f 261 -l 20 -D 0 -n -f 391 -l 20 -D 332 -n -f 130 -l 20 -D 0 -n -f 195 -l 20 -D 0 -n -f 329 -l 20 -D 332 -n -f 174 -l 20 -D 0 -n -f 261 -l 20 -D 0 -n -f 440 -l 20 -D 189 -n -f 195 -l 20 -D 0 -n -f 293 -l 20 -D 0 -n -f 493 -l 20 -D 189 -n -f 184 -l 20 -D 0 -n -f 277 -l 20 -D 0 -n -f 466 -l 20 -D 47 -n -f 174 -l 20 -D 0 -n -f 261 -l 20 -D 0 -n -f 440 -l 20 -D 190 -n -f 164 -l 20 -D 0 -n -f 261 -l 20 -D 0 -n -f 391 -l 20 -D 95 -n -f 261 -l 20 -D 0 -n -f 391 -l 20 -D 0 -n -f 659 -l 20 -D 95 -n -f 329 -l 20 -D 0 -n -f 493 -l 20 -D 0 -n -f 783 -l 20 -D 95 -n -f 349 -l 20 -D 0 -n -f 523 -l 20 -D 0 -n -f 880 -l 20 -D 190 -n -f 293 -l 20 -D 0 -n -f 440 -l 20 -D 0 -n -f 698 -l 20 -D 47 -n -f 329 -l 20 -D 0 -n -f 493 -l 20 -D 0 -n -f 783 -l 20 -D 189 -n -f 261 -l 20 -D 0 -n -f 440 -l 20 -D 0 -n -f 659 -l 20 -D 189 -n -f 220 -l 20 -D 0 -n -f 329 -l 20 -D 0 -n -f 523 -l 20 -D 47 -n -f 246 -l 20 -D 0 -n -f 349 -l 20 -D 0 -n -f 587 -l 20 -D 47 -n -f 195 -l 20 -D 0 -n -f 293 -l 20 -D 0 -n -f 493 -l 20 -D 332 -n -f 130 -l 95 -D 190 -n -f 659 -l 20 -D 0 -n -f 783 -l 20 -n -f 659 -l 20 -D 0 -n -f 783 -l 20 -D 47 -n -f 195 -l 20 -D 0 -n -f 622 -l 20 -D 0 -n -f 739 -l 20 -D 47 -n -f 587 -l 20 -D 0 -n -f 698 -l 20 -n -f 587 -l 20 -D 0 -n -f 698 -l 20 -D 47 -n -f 493 -l 20 -D 0 -n -f 622 -l 20 -n -f 493 -l 20 -D 0 -n -f 622 -l 20 -D 47 -n -f 261 -l 95 -D 47 -n -f 523 -l 20 -D 0 -n -f 659 -l 20 -n -f 523 -l 20 -D 0 -n -f 659 -l 20 -D 47 -n -f 174 -l 95 -D 47 -n -f 329 -l 20 -D 0 -n -f 415 -l 20 -n -f 329 -l 20 -D 0 -n -f 415 -l 20 -D 47 -n -f 349 -l 20 -D 0 -n -f 440 -l 20 -n -f 349 -l 20 -D 0 -n -f 440 -l 20 -D 47 -n -f 261 -l 20 -D 0 -n -f 391 -l 20 -D 0 -n -f 523 -l 20 -D 47 -n -f 261 -l 95 -D 47 -n -f 261 -l 20 -D 0 -n -f 440 -l 20 -n -f 261 -l 20 -D 0 -n -f 440 -l 20 -D 47 -n -f 174 -l 20 -D 0 -n -f 329 -l 20 -D 0 -n -f 523 -l 20 -D 47 -n -f 349 -l 20 -D 0 -n -f 587 -l 20 -n -f 349 -l 20 -D 0 -n -f 587 -l 20 -D 47 -n -f 130 -l 95 -D 190 -n -f 659 -l 20 -D 0 -n -f 783 -l 20 -n -f 659 -l 20 -D 0 -n -f 783 -l 20 -D 47 -n -f 164 -l 20 -D 0 -n -f 622 -l 20 -D 0 -n -f 739 -l 20 -D 47 -n -f 587 -l 20 -D 0 -n -f 698 -l 20 -n -f 587 -l 20 -D 0 -n -f 698 -l 20 -D 47 -n -f 493 -l 20 -D 0 -n -f 622 -l 20 -n -f 493 -l 20 -D 0 -n -f 622 -l 20 -D 47 -n -f 195 -l 95 -D 47 -n -f 261 -l 20 -D 0 -n -f 523 -l 20 -D 0 -n -f 659 -l 20 -D 189 -n -f 698 -l 20 -D 0 -n -f 783 -l 20 -D 0 -n -f 1046 -l 20 -D 189 -n -f 698 -l 20 -D 0 -n -f 783 -l 20 -D 0 -n -f 1046 -l 20 -D 47 -n -f 698 -l 20 -D 0 -n -f 783 -l 20 -D 0 -n -f 1046 -l 20 -D 190 -n -f 195 -l 95 -D 190 -n -f 130 -l 95 -D 190 -n -f 659 -l 20 -D 0 -n -f 783 -l 20 -n -f 659 -l 20 -D 0 -n -f 783 -l 20 -D 47 -n -f 195 -l 20 -D 0 -n -f 622 -l 20 -D 0 -n -f 739 -l 20 -D 47 -n -f 587 -l 20 -D 0 -n -f 698 -l 20 -n -f 587 -l 20 -D 0 -n -f 698 -l 20 -D 47 -n -f 493 -l 20 -D 0 -n -f 622 -l 20 -n -f 493 -l 20 -D 0 -n -f 622 -l 20 -D 47 -n -f 261 -l 95 -D 47 -n -f 523 -l 20 -D 0 -n -f 659 -l 20 -n -f 523 -l 20 -D 0 -n -f 659 -l 20 -D 47 -n -f 174 -l 95 -D 47 -n -f 329 -l 20 -D 0 -n -f 415 -l 20 -n -f 329 -l 20 -D 0 -n -f 415 -l 20 -D 47 -n -f 349 -l 20 -D 0 -n -f 440 -l 20 -n -f 349 -l 20 -D 0 -n -f 440 -l 20 -D 47 -n -f 261 -l 20 -D 0 -n -f 391 -l 20 -D 0 -n -f 523 -l 20 -D 47 -n -f 261 -l 95 -D 47 -n -f 261 -l 20 -D 0 -n -f 440 -l 20 -n -f 261 -l 20 -D 0 -n -f 440 -l 20 -D 47 -n -f 174 -l 20 -D 0 -n -f 329 -l 20 -D 0 -n -f 523 -l 20 -D 47 -n -f 349 -l 20 -D 0 -n -f 587 -l 20 -n -f 349 -l 20 -D 0 -n -f 587 -l 20 -D 47 -n -f 130 -l 95 -D 190 -n -f 207 -l 20 -D 0 -n -f 415 -l 20 -D 0 -n -f 622 -l 20 -D 332 -n -f 233 -l 20 -D 0 -n -f 349 -l 20 -D 0 -n -f 587 -l 20 -D 332 -n -f 261 -l 20 -D 0 -n -f 329 -l 20 -D 0 -n -f 523 -l 20 -D 332 -n -f 195 -l 94 -D 47 -n -f 195 -l 95 -D 190 -n -f 130 -l 95 -D 190 -n -f 130 -l 95 -D 190 -n -f 659 -l 20 -D 0 -n -f 783 -l 20 -n -f 659 -l 20 -D 0 -n -f 783 -l 20 -D 47 -n -f 195 -l 20 -D 0 -n -f 622 -l 20 -D 0 -n -f 739 -l 20 -D 47 -n -f 587 -l 20 -D 0 -n -f 698 -l 20 -n -f 587 -l 20 -D 0 -n -f 698 -l 20 -D 47 -n -f 493 -l 20 -D 0 -n -f 622 -l 20 -n -f 493 -l 20 -D 0 -n -f 622 -l 20 -D 47 -n -f 261 -l 95 -D 47 -n -f 523 -l 20 -D 0 -n -f 659 -l 20 -n -f 523 -l 20 -D 0 -n -f 659 -l 20 -D 47 -n -f 174 -l 95 -D 47 -n -f 329 -l 20 -D 0 -n -f 415 -l 20 -n -f 329 -l 20 -D 0 -n -f 415 -l 20 -D 47 -n -f 349 -l 20 -D 0 -n -f 440 -l 20 -n -f 349 -l 20 -D 0 -n -f 440 -l 20 -D 47 -n -f 261 -l 20 -D 0 -n -f 391 -l 20 -D 0 -n -f 523 -l 20 -D 47 -n -f 261 -l 95 -D 47 -n -f 261 -l 20 -D 0 -n -f 440 -l 20 -n -f 261 -l 20 -D 0 -n -f 440 -l 20 -D 47 -n -f 174 -l 20 -D 0 -n -f 329 -l 20 -D 0 -n -f 523 -l 20 -D 47 -n -f 349 -l 20 -D 0 -n -f 587 -l 20 -n -f 349 -l 20 -D 0 -n -f 587 -l 20 -D 47 -n -f 130 -l 95 -D 190 -n -f 659 -l 20 -D 0 -n -f 783 -l 20 -n -f 659 -l 20 -D 0 -n -f 783 -l 20 -D 47 -n -f 164 -l 20 -D 0 -n -f 622 -l 20 -D 0 -n -f 739 -l 20 -D 47 -n -f 587 -l 20 -D 0 -n -f 698 -l 20 -n -f 587 -l 20 -D 0 -n -f 698 -l 20 -D 47 -n -f 493 -l 20 -D 0 -n -f 622 -l 20 -n -f 493 -l 20 -D 0 -n -f 622 -l 20 -D 47 -n -f 195 -l 95 -D 47 -n -f 261 -l 20 -D 0 -n -f 523 -l 20 -D 0 -n -f 659 -l 20 -D 189 -n -f 698 -l 20 -D 0 -n -f 783 -l 20 -D 0 -n -f 1046 -l 20 -D 189 -n -f 698 -l 20 -D 0 -n -f 783 -l 20 -D 0 -n -f 1046 -l 20 -D 47 -n -f 698 -l 20 -D 0 -n -f 783 -l 20 -D 0 -n -f 1046 -l 20 -D 190 -n -f 195 -l 95 -D 190 -n -f 130 -l 95 -D 190 -n -f 659 -l 20 -D 0 -n -f 783 -l 20 -n -f 659 -l 20 -D 0 -n -f 783 -l 20 -D 47 -n -f 195 -l 20 -D 0 -n -f 622 -l 20 -D 0 -n -f 739 -l 20 -D 47 -n -f 587 -l 20 -D 0 -n -f 698 -l 20 -n -f 587 -l 20 -D 0 -n -f 698 -l 20 -D 47 -n -f 493 -l 20 -D 0 -n -f 622 -l 20 -n -f 493 -l 20 -D 0 -n -f 622 -l 20 -D 47 -n -f 261 -l 95 -D 47 -n -f 523 -l 20 -D 0 -n -f 659 -l 20 -n -f 523 -l 20 -D 0 -n -f 659 -l 20 -D 47 -n -f 174 -l 95 -D 47 -n -f 329 -l 20 -D 0 -n -f 415 -l 20 -n -f 329 -l 20 -D 0 -n -f 415 -l 20 -D 47 -n -f 349 -l 20 -D 0 -n -f 440 -l 20 -n -f 349 -l 20 -D 0 -n -f 440 -l 20 -D 47 -n -f 261 -l 20 -D 0 -n -f 391 -l 20 -D 0 -n -f 523 -l 20 -D 47 -n -f 261 -l 95 -D 47 -n -f 261 -l 20 -D 0 -n -f 440 -l 20 -n -f 261 -l 20 -D 0 -n -f 440 -l 20 -D 47 -n -f 174 -l 20 -D 0 -n -f 329 -l 20 -D 0 -n -f 523 -l 20 -D 47 -n -f 349 -l 20 -D 0 -n -f 587 -l 20 -n -f 349 -l 20 -D 0 -n -f 587 -l 20 -D 47 -n -f 130 -l 95 -D 190 -n -f 207 -l 20 -D 0 -n -f 415 -l 20 -D 0 -n -f 622 -l 20 -D 332 -n -f 233 -l 20 -D 0 -n -f 349 -l 20 -D 0 -n -f 587 -l 20 -D 332 -n -f 261 -l 20 -D 0 -n -f 329 -l 20 -D 0 -n -f 523 -l 20 -D 332 -n -f 195 -l 94 -D 47 -n -f 195 -l 95 -D 190 -n -f 130 -l 95 -D 190 -n -f 103 -l 20 -D 0 -n -f 415 -l 20 -D 0 -n -f 523 -l 20 -D 47 -n -f 415 -l 20 -D 0 -n -f 523 -l 20 -n -f 415 -l 20 -D 0 -n -f 523 -l 20 -D 189 -n -f 155 -l 20 -D 0 -n -f 415 -l 20 -D 0 -n -f 523 -l 20 -D 190 -n -f 415 -l 20 -D 0 -n -f 523 -l 20 -n -f 415 -l 20 -D 0 -n -f 523 -l 20 -D 47 -n -f 207 -l 20 -D 0 -n -f 466 -l 20 -D 0 -n -f 587 -l 20 -D 190 -n -f 195 -l 20 -D 0 -n -f 391 -l 20 -D 0 -n -f 659 -l 20 -D 47 -n -f 329 -l 20 -D 0 -n -f 523 -l 20 -n -f 329 -l 20 -D 0 -n -f 523 -l 20 -D 190 -n -f 130 -l 20 -D 0 -n -f 329 -l 20 -D 0 -n -f 440 -l 20 -D 47 -n -f 261 -l 20 -D 0 -n -f 391 -l 20 -n -f 261 -l 20 -D 0 -n -f 391 -l 20 -D 189 -n -f 97 -l 95 -D 189 -n -f 103 -l 20 -D 0 -n -f 415 -l 20 -D 0 -n -f 523 -l 20 -D 47 -n -f 415 -l 20 -D 0 -n -f 523 -l 20 -n -f 415 -l 20 -D 0 -n -f 523 -l 20 -D 189 -n -f 155 -l 20 -D 0 -n -f 415 -l 20 -D 0 -n -f 523 -l 20 -D 190 -n -f 415 -l 20 -D 0 -n -f 523 -l 20 -n -f 415 -l 20 -D 0 -n -f 523 -l 20 -D 47 -n -f 207 -l 20 -D 0 -n -f 466 -l 20 -D 0 -n -f 587 -l 20 -D 47 -n -f 391 -l 20 -D 0 -n -f 659 -l 20 -n -f 391 -l 20 -D 0 -n -f 659 -l 20 -D 47 -n -f 195 -l 95 -D 333 -n -f 130 -l 95 -D 332 -n -f 97 -l 95 -D 189 -n -f 103 -l 20 -D 0 -n -f 415 -l 20 -D 0 -n -f 523 -l 20 -D 47 -n -f 415 -l 20 -D 0 -n -f 523 -l 20 -n -f 415 -l 20 -D 0 -n -f 523 -l 20 -D 189 -n -f 155 -l 20 -D 0 -n -f 415 -l 20 -D 0 -n -f 523 -l 20 -D 190 -n -f 415 -l 20 -D 0 -n -f 523 -l 20 -n -f 415 -l 20 -D 0 -n -f 523 -l 20 -D 47 -n -f 207 -l 20 -D 0 -n -f 466 -l 20 -D 0 -n -f 587 -l 20 -D 190 -n -f 195 -l 20 -D 0 -n -f 391 -l 20 -D 0 -n -f 659 -l 20 -D 47 -n -f 329 -l 20 -D 0 -n -f 523 -l 20 -n -f 329 -l 20 -D 0 -n -f 523 -l 20 -D 190 -n -f 130 -l 20 -D 0 -n -f 329 -l 20 -D 0 -n -f 440 -l 20 -D 47 -n -f 261 -l 20 -D 0 -n -f 391 -l 20 -n -f 261 -l 20 -D 0 -n -f 391 -l 20 -D 189 -n -f 97 -l 95 -D 189 -n -f 146 -l 20 -D 0 -n -f 369 -l 20 -D 0 -n -f 659 -l 20 -D 47 -n -f 146 -l 20 -D 0 -n -f 369 -l 20 -D 0 -n -f 659 -l 20 -D 189 -n -f 146 -l 20 -D 0 -n -f 369 -l 20 -D 0 -n -f 659 -l 20 -D 190 -n -f 146 -l 20 -D 0 -n -f 369 -l 20 -D 0 -n -f 523 -l 20 -D 47 -n -f 146 -l 20 -D 0 -n -f 369 -l 20 -D 0 -n -f 659 -l 20 -D 190 -n -f 391 -l 20 -D 0 -n -f 493 -l 20 -D 0 -n -f 783 -l 20 -D 475 -n -f 195 -l 20 -D 0 -n -f 391 -l 20 -n -f 195 -l 20 -D 0 -n -f 391 -l 20 -D 473 -n -f 195 -l 20 -D 0 -n -f 329 -l 20 -D 0 -n -f 523 -l 20 -D 332 -n -f 164 -l 20 -D 0 -n -f 261 -l 20 -D 0 -n -f 391 -l 20 -D 332 -n -f 130 -l 20 -D 0 -n -f 195 -l 20 -D 0 -n -f 329 -l 20 -D 332 -n -f 174 -l 20 -D 0 -n -f 261 -l 20 -D 0 -n -f 440 -l 20 -D 189 -n -f 195 -l 20 -D 0 -n -f 293 -l 20 -D 0 -n -f 493 -l 20 -D 189 -n -f 184 -l 20 -D 0 -n -f 277 -l 20 -D 0 -n -f 466 -l 20 -D 47 -n -f 174 -l 20 -D 0 -n -f 261 -l 20 -D 0 -n -f 440 -l 20 -D 190 -n -f 164 -l 20 -D 0 -n -f 261 -l 20 -D 0 -n -f 391 -l 20 -D 95 -n -f 261 -l 20 -D 0 -n -f 391 -l 20 -D 0 -n -f 659 -l 20 -D 95 -n -f 329 -l 20 -D 0 -n -f 493 -l 20 -D 0 -n -f 783 -l 20 -D 95 -n -f 349 -l 20 -D 0 -n -f 523 -l 20 -D 0 -n -f 880 -l 20 -D 190 -n -f 293 -l 20 -D 0 -n -f 440 -l 20 -D 0 -n -f 698 -l 20 -D 47 -n -f 329 -l 20 -D 0 -n -f 493 -l 20 -D 0 -n -f 783 -l 20 -D 189 -n -f 261 -l 20 -D 0 -n -f 440 -l 20 -D 0 -n -f 659 -l 20 -D 189 -n -f 220 -l 20 -D 0 -n -f 329 -l 20 -D 0 -n -f 523 -l 20 -D 47 -n -f 246 -l 20 -D 0 -n -f 349 -l 20 -D 0 -n -f 587 -l 20 -D 47 -n -f 195 -l 20 -D 0 -n -f 293 -l 20 -D 0 -n -f 493 -l 20 -D 332 -n -f 195 -l 20 -D 0 -n -f 329 -l 20 -D 0 -n -f 523 -l 20 -D 332 -n -f 164 -l 20 -D 0 -n -f 261 -l 20 -D 0 -n -f 391 -l 20 -D 332 -n -f 130 -l 20 -D 0 -n -f 195 -l 20 -D 0 -n -f 329 -l 20 -D 332 -n -f 174 -l 20 -D 0 -n -f 261 -l 20 -D 0 -n -f 440 -l 20 -D 189 -n -f 195 -l 20 -D 0 -n -f 293 -l 20 -D 0 -n -f 493 -l 20 -D 189 -n -f 184 -l 20 -D 0 -n -f 277 -l 20 -D 0 -n -f 466 -l 20 -D 47 -n -f 174 -l 20 -D 0 -n -f 261 -l 20 -D 0 -n -f 440 -l 20 -D 190 -n -f 164 -l 20 -D 0 -n -f 261 -l 20 -D 0 -n -f 391 -l 20 -D 95 -n -f 261 -l 20 -D 0 -n -f 391 -l 20 -D 0 -n -f 659 -l 20 -D 95 -n -f 329 -l 20 -D 0 -n -f 493 -l 20 -D 0 -n -f 783 -l 20 -D 95 -n -f 349 -l 20 -D 0 -n -f 523 -l 20 -D 0 -n -f 880 -l 20 -D 190 -n -f 293 -l 20 -D 0 -n -f 440 -l 20 -D 0 -n -f 698 -l 20 -D 47 -n -f 329 -l 20 -D 0 -n -f 493 -l 20 -D 0 -n -f 783 -l 20 -D 189 -n -f 261 -l 20 -D 0 -n -f 440 -l 20 -D 0 -n -f 659 -l 20 -D 189 -n -f 220 -l 20 -D 0 -n -f 329 -l 20 -D 0 -n -f 523 -l 20 -D 47 -n -f 246 -l 20 -D 0 -n -f 349 -l 20 -D 0 -n -f 587 -l 20 -D 47 -n -f 195 -l 20 -D 0 -n -f 293 -l 20 -D 0 -n -f 493 -l 20 -D 332 -n -f 130 -l 20 -D 0 -n -f 523 -l 20 -D 0 -n -f 659 -l 20 -D 47 -n -f 440 -l 20 -D 0 -n -f 523 -l 20 -n -f 440 -l 20 -D 0 -n -f 523 -l 20 -D 190 -n -f 184 -l 20 -D 0 -n -f 329 -l 20 -D 0 -n -f 391 -l 20 -D 47 -n -f 195 -l 95 -D 190 -n -f 261 -l 20 -D 0 -n -f 329 -l 20 -D 0 -n -f 415 -l 20 -D 190 -n -f 174 -l 20 -D 0 -n -f 349 -l 20 -D 0 -n -f 440 -l 20 -D 47 -n -f 523 -l 20 -D 0 -n -f 698 -l 20 -n -f 523 -l 20 -D 0 -n -f 698 -l 20 -D 47 -n -f 174 -l 95 -D 47 -n -f 523 -l 20 -D 0 -n -f 698 -l 20 -n -f 523 -l 20 -D 0 -n -f 698 -l 20 -D 47 -n -f 261 -l 20 -D 0 -n -f 349 -l 20 -D 0 -n -f 440 -l 20 -D 47 -n -f 261 -l 94 -D 47 -n -f 174 -l 95 -D 190 -n -f 146 -l 20 -D 0 -n -f 391 -l 20 -D 0 -n -f 493 -l 20 -D 95 -n -f 698 -l 20 -D 0 -n -f 880 -l 20 -n -f 698 -l 20 -D 0 -n -f 880 -l 20 -D 95 -n -f 698 -l 20 -D 0 -n -f 880 -l 20 -D 0 -n -f 174 -l 15 -D 0 -n -f 698 -l 15 -D 0 -n -f 880 -l 15 -D 0 -n -f 174 -l 47 -D 47 -n -f 195 -l 20 -D 0 -n -f 698 -l 20 -D 0 -n -f 880 -l 20 -D 95 -n -f 659 -l 20 -D 0 -n -f 783 -l 20 -n -f 659 -l 20 -D 0 -n -f 783 -l 20 -D 0 -n -f 246 -l 95 -D 0 -n -f 587 -l 20 -D 0 -n -f 698 -l 20 -n -f 587 -l 20 -D 0 -n -f 698 -l 20 -D 95 -n -f 195 -l 20 -D 0 -n -f 523 -l 20 -D 0 -n -f 659 -l 20 -D 47 -n -f 440 -l 20 -D 0 -n -f 523 -l 20 -n -f 440 -l 20 -D 0 -n -f 523 -l 20 -D 47 -n -f 195 -l 95 -D 47 -n -f 349 -l 20 -D 0 -n -f 440 -l 20 -n -f 349 -l 20 -D 0 -n -f 440 -l 20 -D 47 -n -f 261 -l 20 -D 0 -n -f 329 -l 20 -D 0 -n -f 391 -l 20 -D 47 -n -f 261 -l 94 -D 47 -n -f 195 -l 95 -D 190 -n -f 130 -l 20 -D 0 -n -f 523 -l 20 -D 0 -n -f 659 -l 20 -D 47 -n -f 440 -l 20 -D 0 -n -f 523 -l 20 -n -f 440 -l 20 -D 0 -n -f 523 -l 20 -D 190 -n -f 184 -l 20 -D 0 -n -f 329 -l 20 -D 0 -n -f 391 -l 20 -D 47 -n -f 195 -l 95 -D 190 -n -f 261 -l 20 -D 0 -n -f 329 -l 20 -D 0 -n -f 415 -l 20 -D 190 -n -f 174 -l 20 -D 0 -n -f 349 -l 20 -D 0 -n -f 440 -l 20 -D 47 -n -f 523 -l 20 -D 0 -n -f 698 -l 20 -n -f 523 -l 20 -D 0 -n -f 698 -l 20 -D 47 -n -f 174 -l 95 -D 47 -n -f 523 -l 20 -D 0 -n -f 698 -l 20 -n -f 523 -l 20 -D 0 -n -f 698 -l 20 -D 47 -n -f 261 -l 20 -D 0 -n -f 349 -l 20 -D 0 -n -f 440 -l 20 -D 47 -n -f 261 -l 94 -D 47 -n -f 174 -l 95 -D 190 -n -f 195 -l 20 -D 0 -n -f 391 -l 20 -D 0 -n -f 493 -l 20 -D 47 -n -f 195 -l 20 -D 0 -n -f 587 -l 20 -D 0 -n -f 698 -l 20 -D 190 -n -f 195 -l 20 -D 0 -n -f 587 -l 20 -D 0 -n -f 698 -l 20 -D 47 -n -f 195 -l 20 -D 0 -n -f 587 -l 20 -D 0 -n -f 698 -l 20 -D 95 -n -f 220 -l 20 -D 0 -n -f 523 -l 20 -D 0 -n -f 659 -l 20 -D 95 -n -f 246 -l 20 -D 0 -n -f 493 -l 20 -D 0 -n -f 587 -l 20 -D 95 -n -f 261 -l 20 -D 0 -n -f 391 -l 20 -D 0 -n -f 523 -l 20 -D 47 -n -f 329 -l 95 -D 47 -n -f 195 -l 95 -D 47 -n -f 329 -l 95 -D 47 -n -f 130 -l 20 -D 0 -n -f 261 -l 20 -n -f 130 -l 20 -D 0 -n -f 261 -l 20 -D 475 -n -f 130 -l 20 -D 0 -n -f 523 -l 20 -D 0 -n -f 659 -l 20 -D 47 -n -f 440 -l 20 -D 0 -n -f 523 -l 20 -n -f 440 -l 20 -D 0 -n -f 523 -l 20 -D 190 -n -f 184 -l 20 -D 0 -n -f 329 -l 20 -D 0 -n -f 391 -l 20 -D 47 -n -f 195 -l 95 -D 190 -n -f 261 -l 20 -D 0 -n -f 329 -l 20 -D 0 -n -f 415 -l 20 -D 190 -n -f 174 -l 20 -D 0 -n -f 349 -l 20 -D 0 -n -f 440 -l 20 -D 47 -n -f 523 -l 20 -D 0 -n -f 698 -l 20 -n -f 523 -l 20 -D 0 -n -f 698 -l 20 -D 47 -n -f 174 -l 95 -D 47 -n -f 523 -l 20 -D 0 -n -f 698 -l 20 -n -f 523 -l 20 -D 0 -n -f 698 -l 20 -D 47 -n -f 261 -l 20 -D 0 -n -f 349 -l 20 -D 0 -n -f 440 -l 20 -D 47 -n -f 261 -l 94 -D 47 -n -f 174 -l 95 -D 190 -n -f 146 -l 20 -D 0 -n -f 391 -l 20 -D 0 -n -f 493 -l 20 -D 95 -n -f 698 -l 20 -D 0 -n -f 880 -l 20 -n -f 698 -l 20 -D 0 -n -f 880 -l 20 -D 95 -n -f 698 -l 20 -D 0 -n -f 880 -l 20 -D 0 -n -f 174 -l 15 -D 0 -n -f 698 -l 15 -D 0 -n -f 880 -l 15 -D 0 -n -f 174 -l 47 -D 47 -n -f 195 -l 20 -D 0 -n -f 698 -l 20 -D 0 -n -f 880 -l 20 -D 95 -n -f 659 -l 20 -D 0 -n -f 783 -l 20 -n -f 659 -l 20 -D 0 -n -f 783 -l 20 -D 0 -n -f 246 -l 95 -D 0 -n -f 587 -l 20 -D 0 -n -f 698 -l 20 -n -f 587 -l 20 -D 0 -n -f 698 -l 20 -D 95 -n -f 195 -l 20 -D 0 -n -f 523 -l 20 -D 0 -n -f 659 -l 20 -D 47 -n -f 440 -l 20 -D 0 -n -f 523 -l 20 -n -f 440 -l 20 -D 0 -n -f 523 -l 20 -D 47 -n -f 195 -l 95 -D 47 -n -f 349 -l 20 -D 0 -n -f 440 -l 20 -n -f 349 -l 20 -D 0 -n -f 440 -l 20 -D 47 -n -f 261 -l 20 -D 0 -n -f 329 -l 20 -D 0 -n -f 391 -l 20 -D 47 -n -f 261 -l 94 -D 47 -n -f 195 -l 95 -D 190 -n -f 130 -l 20 -D 0 -n -f 523 -l 20 -D 0 -n -f 659 -l 20 -D 47 -n -f 440 -l 20 -D 0 -n -f 523 -l 20 -n -f 440 -l 20 -D 0 -n -f 523 -l 20 -D 190 -n -f 184 -l 20 -D 0 -n -f 329 -l 20 -D 0 -n -f 391 -l 20 -D 47 -n -f 195 -l 95 -D 190 -n -f 261 -l 20 -D 0 -n -f 329 -l 20 -D 0 -n -f 415 -l 20 -D 190 -n -f 174 -l 20 -D 0 -n -f 349 -l 20 -D 0 -n -f 440 -l 20 -D 47 -n -f 523 -l 20 -D 0 -n -f 698 -l 20 -n -f 523 -l 20 -D 0 -n -f 698 -l 20 -D 47 -n -f 174 -l 95 -D 47 -n -f 523 -l 20 -D 0 -n -f 698 -l 20 -n -f 523 -l 20 -D 0 -n -f 698 -l 20 -D 47 -n -f 261 -l 20 -D 0 -n -f 349 -l 20 -D 0 -n -f 440 -l 20 -D 47 -n -f 261 -l 94 -D 47 -n -f 174 -l 95 -D 190 -n -f 195 -l 20 -D 0 -n -f 391 -l 20 -D 0 -n -f 493 -l 20 -D 47 -n -f 195 -l 20 -D 0 -n -f 587 -l 20 -D 0 -n -f 698 -l 20 -D 190 -n -f 195 -l 20 -D 0 -n -f 587 -l 20 -D 0 -n -f 698 -l 20 -D 47 -n -f 195 -l 20 -D 0 -n -f 587 -l 20 -D 0 -n -f 698 -l 20 -D 95 -n -f 220 -l 20 -D 0 -n -f 523 -l 20 -D 0 -n -f 659 -l 20 -D 95 -n -f 246 -l 20 -D 0 -n -f 493 -l 20 -D 0 -n -f 587 -l 20 -D 95 -n -f 261 -l 20 -D 0 -n -f 391 -l 20 -D 0 -n -f 523 -l 20 -D 47 -n -f 329 -l 95 -D 47 -n -f 195 -l 95 -D 47 -n -f 329 -l 95 -D 47 -n -f 130 -l 20 -D 0 -n -f 261 -l 20 -n -f 130 -l 20 -D 0 -n -f 261 -l 20 -D 475 -n -f 103 -l 20 -D 0 -n -f 415 -l 20 -D 0 -n -f 523 -l 20 -D 47 -n -f 415 -l 20 -D 0 -n -f 523 -l 20 -n -f 415 -l 20 -D 0 -n -f 523 -l 20 -D 189 -n -f 155 -l 20 -D 0 -n -f 415 -l 20 -D 0 -n -f 523 -l 20 -D 190 -n -f 415 -l 20 -D 0 -n -f 523 -l 20 -n -f 415 -l 20 -D 0 -n -f 523 -l 20 -D 47 -n -f 207 -l 20 -D 0 -n -f 466 -l 20 -D 0 -n -f 587 -l 20 -D 190 -n -f 195 -l 20 -D 0 -n -f 391 -l 20 -D 0 -n -f 659 -l 20 -D 47 -n -f 329 -l 20 -D 0 -n -f 523 -l 20 -n -f 329 -l 20 -D 0 -n -f 523 -l 20 -D 190 -n -f 130 -l 20 -D 0 -n -f 329 -l 20 -D 0 -n -f 440 -l 20 -D 47 -n -f 261 -l 20 -D 0 -n -f 391 -l 20 -n -f 261 -l 20 -D 0 -n -f 391 -l 20 -D 189 -n -f 97 -l 95 -D 189 -n -f 103 -l 20 -D 0 -n -f 415 -l 20 -D 0 -n -f 523 -l 20 -D 47 -n -f 415 -l 20 -D 0 -n -f 523 -l 20 -n -f 415 -l 20 -D 0 -n -f 523 -l 20 -D 189 -n -f 155 -l 20 -D 0 -n -f 415 -l 20 -D 0 -n -f 523 -l 20 -D 190 -n -f 415 -l 20 -D 0 -n -f 523 -l 20 -n -f 415 -l 20 -D 0 -n -f 523 -l 20 -D 47 -n -f 207 -l 20 -D 0 -n -f 466 -l 20 -D 0 -n -f 587 -l 20 -D 47 -n -f 391 -l 20 -D 0 -n -f 659 -l 20 -n -f 391 -l 20 -D 0 -n -f 659 -l 20 -D 47 -n -f 195 -l 95 -D 333 -n -f 130 -l 95 -D 332 -n -f 97 -l 95 -D 189 -n -f 103 -l 20 -D 0 -n -f 415 -l 20 -D 0 -n -f 523 -l 20 -D 47 -n -f 415 -l 20 -D 0 -n -f 523 -l 20 -n -f 415 -l 20 -D 0 -n -f 523 -l 20 -D 189 -n -f 155 -l 20 -D 0 -n -f 415 -l 20 -D 0 -n -f 523 -l 20 -D 190 -n -f 415 -l 20 -D 0 -n -f 523 -l 20 -n -f 415 -l 20 -D 0 -n -f 523 -l 20 -D 47 -n -f 207 -l 20 -D 0 -n -f 466 -l 20 -D 0 -n -f 587 -l 20 -D 190 -n -f 195 -l 20 -D 0 -n -f 391 -l 20 -D 0 -n -f 659 -l 20 -D 47 -n -f 329 -l 20 -D 0 -n -f 523 -l 20 -n -f 329 -l 20 -D 0 -n -f 523 -l 20 -D 190 -n -f 130 -l 20 -D 0 -n -f 329 -l 20 -D 0 -n -f 440 -l 20 -D 47 -n -f 261 -l 20 -D 0 -n -f 391 -l 20 -n -f 261 -l 20 -D 0 -n -f 391 -l 20 -D 189 -n -f 97 -l 95 -D 189 -n -f 146 -l 20 -D 0 -n -f 369 -l 20 -D 0 -n -f 659 -l 20 -D 47 -n -f 146 -l 20 -D 0 -n -f 369 -l 20 -D 0 -n -f 659 -l 20 -D 189 -n -f 146 -l 20 -D 0 -n -f 369 -l 20 -D 0 -n -f 659 -l 20 -D 190 -n -f 146 -l 20 -D 0 -n -f 369 -l 20 -D 0 -n -f 523 -l 20 -D 47 -n -f 146 -l 20 -D 0 -n -f 369 -l 20 -D 0 -n -f 659 -l 20 -D 190 -n -f 391 -l 20 -D 0 -n -f 493 -l 20 -D 0 -n -f 783 -l 20 -D 475 -n -f 195 -l 20 -D 0 -n -f 391 -l 20 -n -f 195 -l 20 -D 0 -n -f 391 -l 20 -D 473 -n -f 130 -l 20 -D 0 -n -f 523 -l 20 -D 0 -n -f 659 -l 20 -D 47 -n -f 440 -l 20 -D 0 -n -f 523 -l 20 -n -f 440 -l 20 -D 0 -n -f 523 -l 20 -D 190 -n -f 184 -l 20 -D 0 -n -f 329 -l 20 -D 0 -n -f 391 -l 20 -D 47 -n -f 195 -l 95 -D 190 -n -f 261 -l 20 -D 0 -n -f 329 -l 20 -D 0 -n -f 415 -l 20 -D 190 -n -f 174 -l 20 -D 0 -n -f 349 -l 20 -D 0 -n -f 440 -l 20 -D 47 -n -f 523 -l 20 -D 0 -n -f 698 -l 20 -n -f 523 -l 20 -D 0 -n -f 698 -l 20 -D 47 -n -f 174 -l 95 -D 47 -n -f 523 -l 20 -D 0 -n -f 698 -l 20 -n -f 523 -l 20 -D 0 -n -f 698 -l 20 -D 47 -n -f 261 -l 20 -D 0 -n -f 349 -l 20 -D 0 -n -f 440 -l 20 -D 47 -n -f 261 -l 94 -D 47 -n -f 174 -l 95 -D 190 -n -f 146 -l 20 -D 0 -n -f 391 -l 20 -D 0 -n -f 493 -l 20 -D 95 -n -f 698 -l 20 -D 0 -n -f 880 -l 20 -n -f 698 -l 20 -D 0 -n -f 880 -l 20 -D 95 -n -f 698 -l 20 -D 0 -n -f 880 -l 20 -D 0 -n -f 174 -l 15 -D 0 -n -f 698 -l 15 -D 0 -n -f 880 -l 15 -D 0 -n -f 174 -l 47 -D 47 -n -f 195 -l 20 -D 0 -n -f 698 -l 20 -D 0 -n -f 880 -l 20 -D 95 -n -f 659 -l 20 -D 0 -n -f 783 -l 20 -n -f 659 -l 20 -D 0 -n -f 783 -l 20 -D 0 -n -f 246 -l 95 -D 0 -n -f 587 -l 20 -D 0 -n -f 698 -l 20 -n -f 587 -l 20 -D 0 -n -f 698 -l 20 -D 95 -n -f 195 -l 20 -D 0 -n -f 523 -l 20 -D 0 -n -f 659 -l 20 -D 47 -n -f 440 -l 20 -D 0 -n -f 523 -l 20 -n -f 440 -l 20 -D 0 -n -f 523 -l 20 -D 47 -n -f 195 -l 95 -D 47 -n -f 349 -l 20 -D 0 -n -f 440 -l 20 -n -f 349 -l 20 -D 0 -n -f 440 -l 20 -D 47 -n -f 261 -l 20 -D 0 -n -f 329 -l 20 -D 0 -n -f 391 -l 20 -D 47 -n -f 261 -l 94 -D 47 -n -f 195 -l 95 -D 190 -n -f 130 -l 20 -D 0 -n -f 523 -l 20 -D 0 -n -f 659 -l 20 -D 47 -n -f 440 -l 20 -D 0 -n -f 523 -l 20 -n -f 440 -l 20 -D 0 -n -f 523 -l 20 -D 190 -n -f 184 -l 20 -D 0 -n -f 329 -l 20 -D 0 -n -f 391 -l 20 -D 47 -n -f 195 -l 95 -D 190 -n -f 261 -l 20 -D 0 -n -f 329 -l 20 -D 0 -n -f 415 -l 20 -D 190 -n -f 174 -l 20 -D 0 -n -f 349 -l 20 -D 0 -n -f 440 -l 20 -D 47 -n -f 523 -l 20 -D 0 -n -f 698 -l 20 -n -f 523 -l 20 -D 0 -n -f 698 -l 20 -D 47 -n -f 174 -l 95 -D 47 -n -f 523 -l 20 -D 0 -n -f 698 -l 20 -n -f 523 -l 20 -D 0 -n -f 698 -l 20 -D 47 -n -f 261 -l 20 -D 0 -n -f 349 -l 20 -D 0 -n -f 440 -l 20 -D 47 -n -f 261 -l 94 -D 47 -n -f 174 -l 95 -D 190 -n -f 195 -l 20 -D 0 -n -f 391 -l 20 -D 0 -n -f 493 -l 20 -D 47 -n -f 195 -l 20 -D 0 -n -f 587 -l 20 -D 0 -n -f 698 -l 20 -D 190 -n -f 195 -l 20 -D 0 -n -f 587 -l 20 -D 0 -n -f 698 -l 20 -D 47 -n -f 195 -l 20 -D 0 -n -f 587 -l 20 -D 0 -n -f 698 -l 20 -D 95 -n -f 220 -l 20 -D 0 -n -f 523 -l 20 -D 0 -n -f 659 -l 20 -D 95 -n -f 246 -l 20 -D 0 -n -f 493 -l 20 -D 0 -n -f 587 -l 20 -D 95 -n -f 261 -l 20 -D 0 -n -f 391 -l 20 -D 0 -n -f 523 -l 20 -D 47 -n -f 329 -l 95 -D 47 -n -f 195 -l 95 -D 47 -n -f 329 -l 95 -D 47 -n -f 130 -l 20 -D 0 -n -f 261 -l 20 -n -f 130 -l 20 -D 0 -n -f 261 -l 20
+beep 
+beep -p 146  2.0 
+sleep 0.00 
+beep -p 369  2.0 
+sleep 0.00 
+beep -p 659  2.0 
+sleep 0.047 
+beep -p 146  2.0 
+sleep 0.00 
+beep -p 369  2.0 
+sleep 0.00 
+beep -p 659  2.0 
+sleep 0.0189 
+beep -p 146  2.0 
+sleep 0.00 
+beep -p 369  2.0 
+sleep 0.00 
+beep -p 659  2.0 
+sleep 0.0190 
+beep -p 146  2.0 
+sleep 0.00 
+beep -p 369  2.0 
+sleep 0.00 
+beep -p 523  2.0 
+sleep 0.047 
+beep -p 146  2.0 
+sleep 0.00 
+beep -p 369  2.0 
+sleep 0.00 
+beep -p 659  2.0 
+sleep 0.0190 
+beep -p 391  2.0 
+sleep 0.00 
+beep -p 493  2.0 
+sleep 0.00 
+beep -p 783  2.0 
+sleep 0.0475 
+beep -p 195  2.0 
+sleep 0.00 
+beep -p 391  2.0 
+beep -p 195  2.0 
+sleep 0.00 
+beep -p 391  2.0 
+sleep 0.0473 
+beep -p 195  2.0 
+sleep 0.00 
+beep -p 329  2.0 
+sleep 0.00 
+beep -p 523  2.0 
+sleep 0.0332 
+beep -p 164  2.0 
+sleep 0.00 
+beep -p 261  2.0 
+sleep 0.00 
+beep -p 391  2.0 
+sleep 0.0332 
+beep -p 130  2.0 
+sleep 0.00 
+beep -p 195  2.0 
+sleep 0.00 
+beep -p 329  2.0 
+sleep 0.0332 
+beep -p 174  2.0 
+sleep 0.00 
+beep -p 261  2.0 
+sleep 0.00 
+beep -p 440  2.0 
+sleep 0.0189 
+beep -p 195  2.0 
+sleep 0.00 
+beep -p 293  2.0 
+sleep 0.00 
+beep -p 493  2.0 
+sleep 0.0189 
+beep -p 184  2.0 
+sleep 0.00 
+beep -p 277  2.0 
+sleep 0.00 
+beep -p 466  2.0 
+sleep 0.047 
+beep -p 174  2.0 
+sleep 0.00 
+beep -p 261  2.0 
+sleep 0.00 
+beep -p 440  2.0 
+sleep 0.0190 
+beep -p 164  2.0 
+sleep 0.00 
+beep -p 261  2.0 
+sleep 0.00 
+beep -p 391  2.0 
+sleep 0.095 
+beep -p 261  2.0 
+sleep 0.00 
+beep -p 391  2.0 
+sleep 0.00 
+beep -p 659  2.0 
+sleep 0.095 
+beep -p 329  2.0 
+sleep 0.00 
+beep -p 493  2.0 
+sleep 0.00 
+beep -p 783  2.0 
+sleep 0.095 
+beep -p 349  2.0 
+sleep 0.00 
+beep -p 523  2.0 
+sleep 0.00 
+beep -p 880  2.0 
+sleep 0.0190 
+beep -p 293  2.0 
+sleep 0.00 
+beep -p 440  2.0 
+sleep 0.00 
+beep -p 698  2.0 
+sleep 0.047 
+beep -p 329  2.0 
+sleep 0.00 
+beep -p 493  2.0 
+sleep 0.00 
+beep -p 783  2.0 
+sleep 0.0189 
+beep -p 261  2.0 
+sleep 0.00 
+beep -p 440  2.0 
+sleep 0.00 
+beep -p 659  2.0 
+sleep 0.0189 
+beep -p 220  2.0 
+sleep 0.00 
+beep -p 329  2.0 
+sleep 0.00 
+beep -p 523  2.0 
+sleep 0.047 
+beep -p 246  2.0 
+sleep 0.00 
+beep -p 349  2.0 
+sleep 0.00 
+beep -p 587  2.0 
+sleep 0.047 
+beep -p 195  2.0 
+sleep 0.00 
+beep -p 293  2.0 
+sleep 0.00 
+beep -p 493  2.0 
+sleep 0.0332 
+beep -p 195  2.0 
+sleep 0.00 
+beep -p 329  2.0 
+sleep 0.00 
+beep -p 523  2.0 
+sleep 0.0332 
+beep -p 164  2.0 
+sleep 0.00 
+beep -p 261  2.0 
+sleep 0.00 
+beep -p 391  2.0 
+sleep 0.0332 
+beep -p 130  2.0 
+sleep 0.00 
+beep -p 195  2.0 
+sleep 0.00 
+beep -p 329  2.0 
+sleep 0.0332 
+beep -p 174  2.0 
+sleep 0.00 
+beep -p 261  2.0 
+sleep 0.00 
+beep -p 440  2.0 
+sleep 0.0189 
+beep -p 195  2.0 
+sleep 0.00 
+beep -p 293  2.0 
+sleep 0.00 
+beep -p 493  2.0 
+sleep 0.0189 
+beep -p 184  2.0 
+sleep 0.00 
+beep -p 277  2.0 
+sleep 0.00 
+beep -p 466  2.0 
+sleep 0.047 
+beep -p 174  2.0 
+sleep 0.00 
+beep -p 261  2.0 
+sleep 0.00 
+beep -p 440  2.0 
+sleep 0.0190 
+beep -p 164  2.0 
+sleep 0.00 
+beep -p 261  2.0 
+sleep 0.00 
+beep -p 391  2.0 
+sleep 0.095 
+beep -p 261  2.0 
+sleep 0.00 
+beep -p 391  2.0 
+sleep 0.00 
+beep -p 659  2.0 
+sleep 0.095 
+beep -p 329  2.0 
+sleep 0.00 
+beep -p 493  2.0 
+sleep 0.00 
+beep -p 783  2.0 
+sleep 0.095 
+beep -p 349  2.0 
+sleep 0.00 
+beep -p 523  2.0 
+sleep 0.00 
+beep -p 880  2.0 
+sleep 0.0190 
+beep -p 293  2.0 
+sleep 0.00 
+beep -p 440  2.0 
+sleep 0.00 
+beep -p 698  2.0 
+sleep 0.047 
+beep -p 329  2.0 
+sleep 0.00 
+beep -p 493  2.0 
+sleep 0.00 
+beep -p 783  2.0 
+sleep 0.0189 
+beep -p 261  2.0 
+sleep 0.00 
+beep -p 440  2.0 
+sleep 0.00 
+beep -p 659  2.0 
+sleep 0.0189 
+beep -p 220  2.0 
+sleep 0.00 
+beep -p 329  2.0 
+sleep 0.00 
+beep -p 523  2.0 
+sleep 0.047 
+beep -p 246  2.0 
+sleep 0.00 
+beep -p 349  2.0 
+sleep 0.00 
+beep -p 587  2.0 
+sleep 0.047 
+beep -p 195  2.0 
+sleep 0.00 
+beep -p 293  2.0 
+sleep 0.00 
+beep -p 493  2.0 
+sleep 0.0332 
+beep -p 130  9.5 
+sleep 0.0190 
+beep -p 659  2.0 
+sleep 0.00 
+beep -p 783  2.0 
+beep -p 659  2.0 
+sleep 0.00 
+beep -p 783  2.0 
+sleep 0.047 
+beep -p 195  2.0 
+sleep 0.00 
+beep -p 622  2.0 
+sleep 0.00 
+beep -p 739  2.0 
+sleep 0.047 
+beep -p 587  2.0 
+sleep 0.00 
+beep -p 698  2.0 
+beep -p 587  2.0 
+sleep 0.00 
+beep -p 698  2.0 
+sleep 0.047 
+beep -p 493  2.0 
+sleep 0.00 
+beep -p 622  2.0 
+beep -p 493  2.0 
+sleep 0.00 
+beep -p 622  2.0 
+sleep 0.047 
+beep -p 261  9.5 
+sleep 0.047 
+beep -p 523  2.0 
+sleep 0.00 
+beep -p 659  2.0 
+beep -p 523  2.0 
+sleep 0.00 
+beep -p 659  2.0 
+sleep 0.047 
+beep -p 174  9.5 
+sleep 0.047 
+beep -p 329  2.0 
+sleep 0.00 
+beep -p 415  2.0 
+beep -p 329  2.0 
+sleep 0.00 
+beep -p 415  2.0 
+sleep 0.047 
+beep -p 349  2.0 
+sleep 0.00 
+beep -p 440  2.0 
+beep -p 349  2.0 
+sleep 0.00 
+beep -p 440  2.0 
+sleep 0.047 
+beep -p 261  2.0 
+sleep 0.00 
+beep -p 391  2.0 
+sleep 0.00 
+beep -p 523  2.0 
+sleep 0.047 
+beep -p 261  9.5 
+sleep 0.047 
+beep -p 261  2.0 
+sleep 0.00 
+beep -p 440  2.0 
+beep -p 261  2.0 
+sleep 0.00 
+beep -p 440  2.0 
+sleep 0.047 
+beep -p 174  2.0 
+sleep 0.00 
+beep -p 329  2.0 
+sleep 0.00 
+beep -p 523  2.0 
+sleep 0.047 
+beep -p 349  2.0 
+sleep 0.00 
+beep -p 587  2.0 
+beep -p 349  2.0 
+sleep 0.00 
+beep -p 587  2.0 
+sleep 0.047 
+beep -p 130  9.5 
+sleep 0.0190 
+beep -p 659  2.0 
+sleep 0.00 
+beep -p 783  2.0 
+beep -p 659  2.0 
+sleep 0.00 
+beep -p 783  2.0 
+sleep 0.047 
+beep -p 164  2.0 
+sleep 0.00 
+beep -p 622  2.0 
+sleep 0.00 
+beep -p 739  2.0 
+sleep 0.047 
+beep -p 587  2.0 
+sleep 0.00 
+beep -p 698  2.0 
+beep -p 587  2.0 
+sleep 0.00 
+beep -p 698  2.0 
+sleep 0.047 
+beep -p 493  2.0 
+sleep 0.00 
+beep -p 622  2.0 
+beep -p 493  2.0 
+sleep 0.00 
+beep -p 622  2.0 
+sleep 0.047 
+beep -p 195  9.5 
+sleep 0.047 
+beep -p 261  2.0 
+sleep 0.00 
+beep -p 523  2.0 
+sleep 0.00 
+beep -p 659  2.0 
+sleep 0.0189 
+beep -p 698  2.0 
+sleep 0.00 
+beep -p 783  2.0 
+sleep 0.00 
+beep -p 1046  2.0 
+sleep 0.0189 
+beep -p 698  2.0 
+sleep 0.00 
+beep -p 783  2.0 
+sleep 0.00 
+beep -p 1046  2.0 
+sleep 0.047 
+beep -p 698  2.0 
+sleep 0.00 
+beep -p 783  2.0 
+sleep 0.00 
+beep -p 1046  2.0 
+sleep 0.0190 
+beep -p 195  9.5 
+sleep 0.0190 
+beep -p 130  9.5 
+sleep 0.0190 
+beep -p 659  2.0 
+sleep 0.00 
+beep -p 783  2.0 
+beep -p 659  2.0 
+sleep 0.00 
+beep -p 783  2.0 
+sleep 0.047 
+beep -p 195  2.0 
+sleep 0.00 
+beep -p 622  2.0 
+sleep 0.00 
+beep -p 739  2.0 
+sleep 0.047 
+beep -p 587  2.0 
+sleep 0.00 
+beep -p 698  2.0 
+beep -p 587  2.0 
+sleep 0.00 
+beep -p 698  2.0 
+sleep 0.047 
+beep -p 493  2.0 
+sleep 0.00 
+beep -p 622  2.0 
+beep -p 493  2.0 
+sleep 0.00 
+beep -p 622  2.0 
+sleep 0.047 
+beep -p 261  9.5 
+sleep 0.047 
+beep -p 523  2.0 
+sleep 0.00 
+beep -p 659  2.0 
+beep -p 523  2.0 
+sleep 0.00 
+beep -p 659  2.0 
+sleep 0.047 
+beep -p 174  9.5 
+sleep 0.047 
+beep -p 329  2.0 
+sleep 0.00 
+beep -p 415  2.0 
+beep -p 329  2.0 
+sleep 0.00 
+beep -p 415  2.0 
+sleep 0.047 
+beep -p 349  2.0 
+sleep 0.00 
+beep -p 440  2.0 
+beep -p 349  2.0 
+sleep 0.00 
+beep -p 440  2.0 
+sleep 0.047 
+beep -p 261  2.0 
+sleep 0.00 
+beep -p 391  2.0 
+sleep 0.00 
+beep -p 523  2.0 
+sleep 0.047 
+beep -p 261  9.5 
+sleep 0.047 
+beep -p 261  2.0 
+sleep 0.00 
+beep -p 440  2.0 
+beep -p 261  2.0 
+sleep 0.00 
+beep -p 440  2.0 
+sleep 0.047 
+beep -p 174  2.0 
+sleep 0.00 
+beep -p 329  2.0 
+sleep 0.00 
+beep -p 523  2.0 
+sleep 0.047 
+beep -p 349  2.0 
+sleep 0.00 
+beep -p 587  2.0 
+beep -p 349  2.0 
+sleep 0.00 
+beep -p 587  2.0 
+sleep 0.047 
+beep -p 130  9.5 
+sleep 0.0190 
+beep -p 207  2.0 
+sleep 0.00 
+beep -p 415  2.0 
+sleep 0.00 
+beep -p 622  2.0 
+sleep 0.0332 
+beep -p 233  2.0 
+sleep 0.00 
+beep -p 349  2.0 
+sleep 0.00 
+beep -p 587  2.0 
+sleep 0.0332 
+beep -p 261  2.0 
+sleep 0.00 
+beep -p 329  2.0 
+sleep 0.00 
+beep -p 523  2.0 
+sleep 0.0332 
+beep -p 195  9.4 
+sleep 0.047 
+beep -p 195  9.5 
+sleep 0.0190 
+beep -p 130  9.5 
+sleep 0.0190 
+beep -p 130  9.5 
+sleep 0.0190 
+beep -p 659  2.0 
+sleep 0.00 
+beep -p 783  2.0 
+beep -p 659  2.0 
+sleep 0.00 
+beep -p 783  2.0 
+sleep 0.047 
+beep -p 195  2.0 
+sleep 0.00 
+beep -p 622  2.0 
+sleep 0.00 
+beep -p 739  2.0 
+sleep 0.047 
+beep -p 587  2.0 
+sleep 0.00 
+beep -p 698  2.0 
+beep -p 587  2.0 
+sleep 0.00 
+beep -p 698  2.0 
+sleep 0.047 
+beep -p 493  2.0 
+sleep 0.00 
+beep -p 622  2.0 
+beep -p 493  2.0 
+sleep 0.00 
+beep -p 622  2.0 
+sleep 0.047 
+beep -p 261  9.5 
+sleep 0.047 
+beep -p 523  2.0 
+sleep 0.00 
+beep -p 659  2.0 
+beep -p 523  2.0 
+sleep 0.00 
+beep -p 659  2.0 
+sleep 0.047 
+beep -p 174  9.5 
+sleep 0.047 
+beep -p 329  2.0 
+sleep 0.00 
+beep -p 415  2.0 
+beep -p 329  2.0 
+sleep 0.00 
+beep -p 415  2.0 
+sleep 0.047 
+beep -p 349  2.0 
+sleep 0.00 
+beep -p 440  2.0 
+beep -p 349  2.0 
+sleep 0.00 
+beep -p 440  2.0 
+sleep 0.047 
+beep -p 261  2.0 
+sleep 0.00 
+beep -p 391  2.0 
+sleep 0.00 
+beep -p 523  2.0 
+sleep 0.047 
+beep -p 261  9.5 
+sleep 0.047 
+beep -p 261  2.0 
+sleep 0.00 
+beep -p 440  2.0 
+beep -p 261  2.0 
+sleep 0.00 
+beep -p 440  2.0 
+sleep 0.047 
+beep -p 174  2.0 
+sleep 0.00 
+beep -p 329  2.0 
+sleep 0.00 
+beep -p 523  2.0 
+sleep 0.047 
+beep -p 349  2.0 
+sleep 0.00 
+beep -p 587  2.0 
+beep -p 349  2.0 
+sleep 0.00 
+beep -p 587  2.0 
+sleep 0.047 
+beep -p 130  9.5 
+sleep 0.0190 
+beep -p 659  2.0 
+sleep 0.00 
+beep -p 783  2.0 
+beep -p 659  2.0 
+sleep 0.00 
+beep -p 783  2.0 
+sleep 0.047 
+beep -p 164  2.0 
+sleep 0.00 
+beep -p 622  2.0 
+sleep 0.00 
+beep -p 739  2.0 
+sleep 0.047 
+beep -p 587  2.0 
+sleep 0.00 
+beep -p 698  2.0 
+beep -p 587  2.0 
+sleep 0.00 
+beep -p 698  2.0 
+sleep 0.047 
+beep -p 493  2.0 
+sleep 0.00 
+beep -p 622  2.0 
+beep -p 493  2.0 
+sleep 0.00 
+beep -p 622  2.0 
+sleep 0.047 
+beep -p 195  9.5 
+sleep 0.047 
+beep -p 261  2.0 
+sleep 0.00 
+beep -p 523  2.0 
+sleep 0.00 
+beep -p 659  2.0 
+sleep 0.0189 
+beep -p 698  2.0 
+sleep 0.00 
+beep -p 783  2.0 
+sleep 0.00 
+beep -p 1046  2.0 
+sleep 0.0189 
+beep -p 698  2.0 
+sleep 0.00 
+beep -p 783  2.0 
+sleep 0.00 
+beep -p 1046  2.0 
+sleep 0.047 
+beep -p 698  2.0 
+sleep 0.00 
+beep -p 783  2.0 
+sleep 0.00 
+beep -p 1046  2.0 
+sleep 0.0190 
+beep -p 195  9.5 
+sleep 0.0190 
+beep -p 130  9.5 
+sleep 0.0190 
+beep -p 659  2.0 
+sleep 0.00 
+beep -p 783  2.0 
+beep -p 659  2.0 
+sleep 0.00 
+beep -p 783  2.0 
+sleep 0.047 
+beep -p 195  2.0 
+sleep 0.00 
+beep -p 622  2.0 
+sleep 0.00 
+beep -p 739  2.0 
+sleep 0.047 
+beep -p 587  2.0 
+sleep 0.00 
+beep -p 698  2.0 
+beep -p 587  2.0 
+sleep 0.00 
+beep -p 698  2.0 
+sleep 0.047 
+beep -p 493  2.0 
+sleep 0.00 
+beep -p 622  2.0 
+beep -p 493  2.0 
+sleep 0.00 
+beep -p 622  2.0 
+sleep 0.047 
+beep -p 261  9.5 
+sleep 0.047 
+beep -p 523  2.0 
+sleep 0.00 
+beep -p 659  2.0 
+beep -p 523  2.0 
+sleep 0.00 
+beep -p 659  2.0 
+sleep 0.047 
+beep -p 174  9.5 
+sleep 0.047 
+beep -p 329  2.0 
+sleep 0.00 
+beep -p 415  2.0 
+beep -p 329  2.0 
+sleep 0.00 
+beep -p 415  2.0 
+sleep 0.047 
+beep -p 349  2.0 
+sleep 0.00 
+beep -p 440  2.0 
+beep -p 349  2.0 
+sleep 0.00 
+beep -p 440  2.0 
+sleep 0.047 
+beep -p 261  2.0 
+sleep 0.00 
+beep -p 391  2.0 
+sleep 0.00 
+beep -p 523  2.0 
+sleep 0.047 
+beep -p 261  9.5 
+sleep 0.047 
+beep -p 261  2.0 
+sleep 0.00 
+beep -p 440  2.0 
+beep -p 261  2.0 
+sleep 0.00 
+beep -p 440  2.0 
+sleep 0.047 
+beep -p 174  2.0 
+sleep 0.00 
+beep -p 329  2.0 
+sleep 0.00 
+beep -p 523  2.0 
+sleep 0.047 
+beep -p 349  2.0 
+sleep 0.00 
+beep -p 587  2.0 
+beep -p 349  2.0 
+sleep 0.00 
+beep -p 587  2.0 
+sleep 0.047 
+beep -p 130  9.5 
+sleep 0.0190 
+beep -p 207  2.0 
+sleep 0.00 
+beep -p 415  2.0 
+sleep 0.00 
+beep -p 622  2.0 
+sleep 0.0332 
+beep -p 233  2.0 
+sleep 0.00 
+beep -p 349  2.0 
+sleep 0.00 
+beep -p 587  2.0 
+sleep 0.0332 
+beep -p 261  2.0 
+sleep 0.00 
+beep -p 329  2.0 
+sleep 0.00 
+beep -p 523  2.0 
+sleep 0.0332 
+beep -p 195  9.4 
+sleep 0.047 
+beep -p 195  9.5 
+sleep 0.0190 
+beep -p 130  9.5 
+sleep 0.0190 
+beep -p 103  2.0 
+sleep 0.00 
+beep -p 415  2.0 
+sleep 0.00 
+beep -p 523  2.0 
+sleep 0.047 
+beep -p 415  2.0 
+sleep 0.00 
+beep -p 523  2.0 
+beep -p 415  2.0 
+sleep 0.00 
+beep -p 523  2.0 
+sleep 0.0189 
+beep -p 155  2.0 
+sleep 0.00 
+beep -p 415  2.0 
+sleep 0.00 
+beep -p 523  2.0 
+sleep 0.0190 
+beep -p 415  2.0 
+sleep 0.00 
+beep -p 523  2.0 
+beep -p 415  2.0 
+sleep 0.00 
+beep -p 523  2.0 
+sleep 0.047 
+beep -p 207  2.0 
+sleep 0.00 
+beep -p 466  2.0 
+sleep 0.00 
+beep -p 587  2.0 
+sleep 0.0190 
+beep -p 195  2.0 
+sleep 0.00 
+beep -p 391  2.0 
+sleep 0.00 
+beep -p 659  2.0 
+sleep 0.047 
+beep -p 329  2.0 
+sleep 0.00 
+beep -p 523  2.0 
+beep -p 329  2.0 
+sleep 0.00 
+beep -p 523  2.0 
+sleep 0.0190 
+beep -p 130  2.0 
+sleep 0.00 
+beep -p 329  2.0 
+sleep 0.00 
+beep -p 440  2.0 
+sleep 0.047 
+beep -p 261  2.0 
+sleep 0.00 
+beep -p 391  2.0 
+beep -p 261  2.0 
+sleep 0.00 
+beep -p 391  2.0 
+sleep 0.0189 
+beep -p 97  9.5 
+sleep 0.0189 
+beep -p 103  2.0 
+sleep 0.00 
+beep -p 415  2.0 
+sleep 0.00 
+beep -p 523  2.0 
+sleep 0.047 
+beep -p 415  2.0 
+sleep 0.00 
+beep -p 523  2.0 
+beep -p 415  2.0 
+sleep 0.00 
+beep -p 523  2.0 
+sleep 0.0189 
+beep -p 155  2.0 
+sleep 0.00 
+beep -p 415  2.0 
+sleep 0.00 
+beep -p 523  2.0 
+sleep 0.0190 
+beep -p 415  2.0 
+sleep 0.00 
+beep -p 523  2.0 
+beep -p 415  2.0 
+sleep 0.00 
+beep -p 523  2.0 
+sleep 0.047 
+beep -p 207  2.0 
+sleep 0.00 
+beep -p 466  2.0 
+sleep 0.00 
+beep -p 587  2.0 
+sleep 0.047 
+beep -p 391  2.0 
+sleep 0.00 
+beep -p 659  2.0 
+beep -p 391  2.0 
+sleep 0.00 
+beep -p 659  2.0 
+sleep 0.047 
+beep -p 195  9.5 
+sleep 0.0333 
+beep -p 130  9.5 
+sleep 0.0332 
+beep -p 97  9.5 
+sleep 0.0189 
+beep -p 103  2.0 
+sleep 0.00 
+beep -p 415  2.0 
+sleep 0.00 
+beep -p 523  2.0 
+sleep 0.047 
+beep -p 415  2.0 
+sleep 0.00 
+beep -p 523  2.0 
+beep -p 415  2.0 
+sleep 0.00 
+beep -p 523  2.0 
+sleep 0.0189 
+beep -p 155  2.0 
+sleep 0.00 
+beep -p 415  2.0 
+sleep 0.00 
+beep -p 523  2.0 
+sleep 0.0190 
+beep -p 415  2.0 
+sleep 0.00 
+beep -p 523  2.0 
+beep -p 415  2.0 
+sleep 0.00 
+beep -p 523  2.0 
+sleep 0.047 
+beep -p 207  2.0 
+sleep 0.00 
+beep -p 466  2.0 
+sleep 0.00 
+beep -p 587  2.0 
+sleep 0.0190 
+beep -p 195  2.0 
+sleep 0.00 
+beep -p 391  2.0 
+sleep 0.00 
+beep -p 659  2.0 
+sleep 0.047 
+beep -p 329  2.0 
+sleep 0.00 
+beep -p 523  2.0 
+beep -p 329  2.0 
+sleep 0.00 
+beep -p 523  2.0 
+sleep 0.0190 
+beep -p 130  2.0 
+sleep 0.00 
+beep -p 329  2.0 
+sleep 0.00 
+beep -p 440  2.0 
+sleep 0.047 
+beep -p 261  2.0 
+sleep 0.00 
+beep -p 391  2.0 
+beep -p 261  2.0 
+sleep 0.00 
+beep -p 391  2.0 
+sleep 0.0189 
+beep -p 97  9.5 
+sleep 0.0189 
+beep -p 146  2.0 
+sleep 0.00 
+beep -p 369  2.0 
+sleep 0.00 
+beep -p 659  2.0 
+sleep 0.047 
+beep -p 146  2.0 
+sleep 0.00 
+beep -p 369  2.0 
+sleep 0.00 
+beep -p 659  2.0 
+sleep 0.0189 
+beep -p 146  2.0 
+sleep 0.00 
+beep -p 369  2.0 
+sleep 0.00 
+beep -p 659  2.0 
+sleep 0.0190 
+beep -p 146  2.0 
+sleep 0.00 
+beep -p 369  2.0 
+sleep 0.00 
+beep -p 523  2.0 
+sleep 0.047 
+beep -p 146  2.0 
+sleep 0.00 
+beep -p 369  2.0 
+sleep 0.00 
+beep -p 659  2.0 
+sleep 0.0190 
+beep -p 391  2.0 
+sleep 0.00 
+beep -p 493  2.0 
+sleep 0.00 
+beep -p 783  2.0 
+sleep 0.0475 
+beep -p 195  2.0 
+sleep 0.00 
+beep -p 391  2.0 
+beep -p 195  2.0 
+sleep 0.00 
+beep -p 391  2.0 
+sleep 0.0473 
+beep -p 195  2.0 
+sleep 0.00 
+beep -p 329  2.0 
+sleep 0.00 
+beep -p 523  2.0 
+sleep 0.0332 
+beep -p 164  2.0 
+sleep 0.00 
+beep -p 261  2.0 
+sleep 0.00 
+beep -p 391  2.0 
+sleep 0.0332 
+beep -p 130  2.0 
+sleep 0.00 
+beep -p 195  2.0 
+sleep 0.00 
+beep -p 329  2.0 
+sleep 0.0332 
+beep -p 174  2.0 
+sleep 0.00 
+beep -p 261  2.0 
+sleep 0.00 
+beep -p 440  2.0 
+sleep 0.0189 
+beep -p 195  2.0 
+sleep 0.00 
+beep -p 293  2.0 
+sleep 0.00 
+beep -p 493  2.0 
+sleep 0.0189 
+beep -p 184  2.0 
+sleep 0.00 
+beep -p 277  2.0 
+sleep 0.00 
+beep -p 466  2.0 
+sleep 0.047 
+beep -p 174  2.0 
+sleep 0.00 
+beep -p 261  2.0 
+sleep 0.00 
+beep -p 440  2.0 
+sleep 0.0190 
+beep -p 164  2.0 
+sleep 0.00 
+beep -p 261  2.0 
+sleep 0.00 
+beep -p 391  2.0 
+sleep 0.095 
+beep -p 261  2.0 
+sleep 0.00 
+beep -p 391  2.0 
+sleep 0.00 
+beep -p 659  2.0 
+sleep 0.095 
+beep -p 329  2.0 
+sleep 0.00 
+beep -p 493  2.0 
+sleep 0.00 
+beep -p 783  2.0 
+sleep 0.095 
+beep -p 349  2.0 
+sleep 0.00 
+beep -p 523  2.0 
+sleep 0.00 
+beep -p 880  2.0 
+sleep 0.0190 
+beep -p 293  2.0 
+sleep 0.00 
+beep -p 440  2.0 
+sleep 0.00 
+beep -p 698  2.0 
+sleep 0.047 
+beep -p 329  2.0 
+sleep 0.00 
+beep -p 493  2.0 
+sleep 0.00 
+beep -p 783  2.0 
+sleep 0.0189 
+beep -p 261  2.0 
+sleep 0.00 
+beep -p 440  2.0 
+sleep 0.00 
+beep -p 659  2.0 
+sleep 0.0189 
+beep -p 220  2.0 
+sleep 0.00 
+beep -p 329  2.0 
+sleep 0.00 
+beep -p 523  2.0 
+sleep 0.047 
+beep -p 246  2.0 
+sleep 0.00 
+beep -p 349  2.0 
+sleep 0.00 
+beep -p 587  2.0 
+sleep 0.047 
+beep -p 195  2.0 
+sleep 0.00 
+beep -p 293  2.0 
+sleep 0.00 
+beep -p 493  2.0 
+sleep 0.0332 
+beep -p 195  2.0 
+sleep 0.00 
+beep -p 329  2.0 
+sleep 0.00 
+beep -p 523  2.0 
+sleep 0.0332 
+beep -p 164  2.0 
+sleep 0.00 
+beep -p 261  2.0 
+sleep 0.00 
+beep -p 391  2.0 
+sleep 0.0332 
+beep -p 130  2.0 
+sleep 0.00 
+beep -p 195  2.0 
+sleep 0.00 
+beep -p 329  2.0 
+sleep 0.0332 
+beep -p 174  2.0 
+sleep 0.00 
+beep -p 261  2.0 
+sleep 0.00 
+beep -p 440  2.0 
+sleep 0.0189 
+beep -p 195  2.0 
+sleep 0.00 
+beep -p 293  2.0 
+sleep 0.00 
+beep -p 493  2.0 
+sleep 0.0189 
+beep -p 184  2.0 
+sleep 0.00 
+beep -p 277  2.0 
+sleep 0.00 
+beep -p 466  2.0 
+sleep 0.047 
+beep -p 174  2.0 
+sleep 0.00 
+beep -p 261  2.0 
+sleep 0.00 
+beep -p 440  2.0 
+sleep 0.0190 
+beep -p 164  2.0 
+sleep 0.00 
+beep -p 261  2.0 
+sleep 0.00 
+beep -p 391  2.0 
+sleep 0.095 
+beep -p 261  2.0 
+sleep 0.00 
+beep -p 391  2.0 
+sleep 0.00 
+beep -p 659  2.0 
+sleep 0.095 
+beep -p 329  2.0 
+sleep 0.00 
+beep -p 493  2.0 
+sleep 0.00 
+beep -p 783  2.0 
+sleep 0.095 
+beep -p 349  2.0 
+sleep 0.00 
+beep -p 523  2.0 
+sleep 0.00 
+beep -p 880  2.0 
+sleep 0.0190 
+beep -p 293  2.0 
+sleep 0.00 
+beep -p 440  2.0 
+sleep 0.00 
+beep -p 698  2.0 
+sleep 0.047 
+beep -p 329  2.0 
+sleep 0.00 
+beep -p 493  2.0 
+sleep 0.00 
+beep -p 783  2.0 
+sleep 0.0189 
+beep -p 261  2.0 
+sleep 0.00 
+beep -p 440  2.0 
+sleep 0.00 
+beep -p 659  2.0 
+sleep 0.0189 
+beep -p 220  2.0 
+sleep 0.00 
+beep -p 329  2.0 
+sleep 0.00 
+beep -p 523  2.0 
+sleep 0.047 
+beep -p 246  2.0 
+sleep 0.00 
+beep -p 349  2.0 
+sleep 0.00 
+beep -p 587  2.0 
+sleep 0.047 
+beep -p 195  2.0 
+sleep 0.00 
+beep -p 293  2.0 
+sleep 0.00 
+beep -p 493  2.0 
+sleep 0.0332 
+beep -p 130  2.0 
+sleep 0.00 
+beep -p 523  2.0 
+sleep 0.00 
+beep -p 659  2.0 
+sleep 0.047 
+beep -p 440  2.0 
+sleep 0.00 
+beep -p 523  2.0 
+beep -p 440  2.0 
+sleep 0.00 
+beep -p 523  2.0 
+sleep 0.0190 
+beep -p 184  2.0 
+sleep 0.00 
+beep -p 329  2.0 
+sleep 0.00 
+beep -p 391  2.0 
+sleep 0.047 
+beep -p 195  9.5 
+sleep 0.0190 
+beep -p 261  2.0 
+sleep 0.00 
+beep -p 329  2.0 
+sleep 0.00 
+beep -p 415  2.0 
+sleep 0.0190 
+beep -p 174  2.0 
+sleep 0.00 
+beep -p 349  2.0 
+sleep 0.00 
+beep -p 440  2.0 
+sleep 0.047 
+beep -p 523  2.0 
+sleep 0.00 
+beep -p 698  2.0 
+beep -p 523  2.0 
+sleep 0.00 
+beep -p 698  2.0 
+sleep 0.047 
+beep -p 174  9.5 
+sleep 0.047 
+beep -p 523  2.0 
+sleep 0.00 
+beep -p 698  2.0 
+beep -p 523  2.0 
+sleep 0.00 
+beep -p 698  2.0 
+sleep 0.047 
+beep -p 261  2.0 
+sleep 0.00 
+beep -p 349  2.0 
+sleep 0.00 
+beep -p 440  2.0 
+sleep 0.047 
+beep -p 261  9.4 
+sleep 0.047 
+beep -p 174  9.5 
+sleep 0.0190 
+beep -p 146  2.0 
+sleep 0.00 
+beep -p 391  2.0 
+sleep 0.00 
+beep -p 493  2.0 
+sleep 0.095 
+beep -p 698  2.0 
+sleep 0.00 
+beep -p 880  2.0 
+beep -p 698  2.0 
+sleep 0.00 
+beep -p 880  2.0 
+sleep 0.095 
+beep -p 698  2.0 
+sleep 0.00 
+beep -p 880  2.0 
+sleep 0.00 
+beep -p 174  1.5 
+sleep 0.00 
+beep -p 698  1.5 
+sleep 0.00 
+beep -p 880  1.5 
+sleep 0.00 
+beep -p 174  4.7 
+sleep 0.047 
+beep -p 195  2.0 
+sleep 0.00 
+beep -p 698  2.0 
+sleep 0.00 
+beep -p 880  2.0 
+sleep 0.095 
+beep -p 659  2.0 
+sleep 0.00 
+beep -p 783  2.0 
+beep -p 659  2.0 
+sleep 0.00 
+beep -p 783  2.0 
+sleep 0.00 
+beep -p 246  9.5 
+sleep 0.00 
+beep -p 587  2.0 
+sleep 0.00 
+beep -p 698  2.0 
+beep -p 587  2.0 
+sleep 0.00 
+beep -p 698  2.0 
+sleep 0.095 
+beep -p 195  2.0 
+sleep 0.00 
+beep -p 523  2.0 
+sleep 0.00 
+beep -p 659  2.0 
+sleep 0.047 
+beep -p 440  2.0 
+sleep 0.00 
+beep -p 523  2.0 
+beep -p 440  2.0 
+sleep 0.00 
+beep -p 523  2.0 
+sleep 0.047 
+beep -p 195  9.5 
+sleep 0.047 
+beep -p 349  2.0 
+sleep 0.00 
+beep -p 440  2.0 
+beep -p 349  2.0 
+sleep 0.00 
+beep -p 440  2.0 
+sleep 0.047 
+beep -p 261  2.0 
+sleep 0.00 
+beep -p 329  2.0 
+sleep 0.00 
+beep -p 391  2.0 
+sleep 0.047 
+beep -p 261  9.4 
+sleep 0.047 
+beep -p 195  9.5 
+sleep 0.0190 
+beep -p 130  2.0 
+sleep 0.00 
+beep -p 523  2.0 
+sleep 0.00 
+beep -p 659  2.0 
+sleep 0.047 
+beep -p 440  2.0 
+sleep 0.00 
+beep -p 523  2.0 
+beep -p 440  2.0 
+sleep 0.00 
+beep -p 523  2.0 
+sleep 0.0190 
+beep -p 184  2.0 
+sleep 0.00 
+beep -p 329  2.0 
+sleep 0.00 
+beep -p 391  2.0 
+sleep 0.047 
+beep -p 195  9.5 
+sleep 0.0190 
+beep -p 261  2.0 
+sleep 0.00 
+beep -p 329  2.0 
+sleep 0.00 
+beep -p 415  2.0 
+sleep 0.0190 
+beep -p 174  2.0 
+sleep 0.00 
+beep -p 349  2.0 
+sleep 0.00 
+beep -p 440  2.0 
+sleep 0.047 
+beep -p 523  2.0 
+sleep 0.00 
+beep -p 698  2.0 
+beep -p 523  2.0 
+sleep 0.00 
+beep -p 698  2.0 
+sleep 0.047 
+beep -p 174  9.5 
+sleep 0.047 
+beep -p 523  2.0 
+sleep 0.00 
+beep -p 698  2.0 
+beep -p 523  2.0 
+sleep 0.00 
+beep -p 698  2.0 
+sleep 0.047 
+beep -p 261  2.0 
+sleep 0.00 
+beep -p 349  2.0 
+sleep 0.00 
+beep -p 440  2.0 
+sleep 0.047 
+beep -p 261  9.4 
+sleep 0.047 
+beep -p 174  9.5 
+sleep 0.0190 
+beep -p 195  2.0 
+sleep 0.00 
+beep -p 391  2.0 
+sleep 0.00 
+beep -p 493  2.0 
+sleep 0.047 
+beep -p 195  2.0 
+sleep 0.00 
+beep -p 587  2.0 
+sleep 0.00 
+beep -p 698  2.0 
+sleep 0.0190 
+beep -p 195  2.0 
+sleep 0.00 
+beep -p 587  2.0 
+sleep 0.00 
+beep -p 698  2.0 
+sleep 0.047 
+beep -p 195  2.0 
+sleep 0.00 
+beep -p 587  2.0 
+sleep 0.00 
+beep -p 698  2.0 
+sleep 0.095 
+beep -p 220  2.0 
+sleep 0.00 
+beep -p 523  2.0 
+sleep 0.00 
+beep -p 659  2.0 
+sleep 0.095 
+beep -p 246  2.0 
+sleep 0.00 
+beep -p 493  2.0 
+sleep 0.00 
+beep -p 587  2.0 
+sleep 0.095 
+beep -p 261  2.0 
+sleep 0.00 
+beep -p 391  2.0 
+sleep 0.00 
+beep -p 523  2.0 
+sleep 0.047 
+beep -p 329  9.5 
+sleep 0.047 
+beep -p 195  9.5 
+sleep 0.047 
+beep -p 329  9.5 
+sleep 0.047 
+beep -p 130  2.0 
+sleep 0.00 
+beep -p 261  2.0 
+beep -p 130  2.0 
+sleep 0.00 
+beep -p 261  2.0 
+sleep 0.0475 
+beep -p 130  2.0 
+sleep 0.00 
+beep -p 523  2.0 
+sleep 0.00 
+beep -p 659  2.0 
+sleep 0.047 
+beep -p 440  2.0 
+sleep 0.00 
+beep -p 523  2.0 
+beep -p 440  2.0 
+sleep 0.00 
+beep -p 523  2.0 
+sleep 0.0190 
+beep -p 184  2.0 
+sleep 0.00 
+beep -p 329  2.0 
+sleep 0.00 
+beep -p 391  2.0 
+sleep 0.047 
+beep -p 195  9.5 
+sleep 0.0190 
+beep -p 261  2.0 
+sleep 0.00 
+beep -p 329  2.0 
+sleep 0.00 
+beep -p 415  2.0 
+sleep 0.0190 
+beep -p 174  2.0 
+sleep 0.00 
+beep -p 349  2.0 
+sleep 0.00 
+beep -p 440  2.0 
+sleep 0.047 
+beep -p 523  2.0 
+sleep 0.00 
+beep -p 698  2.0 
+beep -p 523  2.0 
+sleep 0.00 
+beep -p 698  2.0 
+sleep 0.047 
+beep -p 174  9.5 
+sleep 0.047 
+beep -p 523  2.0 
+sleep 0.00 
+beep -p 698  2.0 
+beep -p 523  2.0 
+sleep 0.00 
+beep -p 698  2.0 
+sleep 0.047 
+beep -p 261  2.0 
+sleep 0.00 
+beep -p 349  2.0 
+sleep 0.00 
+beep -p 440  2.0 
+sleep 0.047 
+beep -p 261  9.4 
+sleep 0.047 
+beep -p 174  9.5 
+sleep 0.0190 
+beep -p 146  2.0 
+sleep 0.00 
+beep -p 391  2.0 
+sleep 0.00 
+beep -p 493  2.0 
+sleep 0.095 
+beep -p 698  2.0 
+sleep 0.00 
+beep -p 880  2.0 
+beep -p 698  2.0 
+sleep 0.00 
+beep -p 880  2.0 
+sleep 0.095 
+beep -p 698  2.0 
+sleep 0.00 
+beep -p 880  2.0 
+sleep 0.00 
+beep -p 174  1.5 
+sleep 0.00 
+beep -p 698  1.5 
+sleep 0.00 
+beep -p 880  1.5 
+sleep 0.00 
+beep -p 174  4.7 
+sleep 0.047 
+beep -p 195  2.0 
+sleep 0.00 
+beep -p 698  2.0 
+sleep 0.00 
+beep -p 880  2.0 
+sleep 0.095 
+beep -p 659  2.0 
+sleep 0.00 
+beep -p 783  2.0 
+beep -p 659  2.0 
+sleep 0.00 
+beep -p 783  2.0 
+sleep 0.00 
+beep -p 246  9.5 
+sleep 0.00 
+beep -p 587  2.0 
+sleep 0.00 
+beep -p 698  2.0 
+beep -p 587  2.0 
+sleep 0.00 
+beep -p 698  2.0 
+sleep 0.095 
+beep -p 195  2.0 
+sleep 0.00 
+beep -p 523  2.0 
+sleep 0.00 
+beep -p 659  2.0 
+sleep 0.047 
+beep -p 440  2.0 
+sleep 0.00 
+beep -p 523  2.0 
+beep -p 440  2.0 
+sleep 0.00 
+beep -p 523  2.0 
+sleep 0.047 
+beep -p 195  9.5 
+sleep 0.047 
+beep -p 349  2.0 
+sleep 0.00 
+beep -p 440  2.0 
+beep -p 349  2.0 
+sleep 0.00 
+beep -p 440  2.0 
+sleep 0.047 
+beep -p 261  2.0 
+sleep 0.00 
+beep -p 329  2.0 
+sleep 0.00 
+beep -p 391  2.0 
+sleep 0.047 
+beep -p 261  9.4 
+sleep 0.047 
+beep -p 195  9.5 
+sleep 0.0190 
+beep -p 130  2.0 
+sleep 0.00 
+beep -p 523  2.0 
+sleep 0.00 
+beep -p 659  2.0 
+sleep 0.047 
+beep -p 440  2.0 
+sleep 0.00 
+beep -p 523  2.0 
+beep -p 440  2.0 
+sleep 0.00 
+beep -p 523  2.0 
+sleep 0.0190 
+beep -p 184  2.0 
+sleep 0.00 
+beep -p 329  2.0 
+sleep 0.00 
+beep -p 391  2.0 
+sleep 0.047 
+beep -p 195  9.5 
+sleep 0.0190 
+beep -p 261  2.0 
+sleep 0.00 
+beep -p 329  2.0 
+sleep 0.00 
+beep -p 415  2.0 
+sleep 0.0190 
+beep -p 174  2.0 
+sleep 0.00 
+beep -p 349  2.0 
+sleep 0.00 
+beep -p 440  2.0 
+sleep 0.047 
+beep -p 523  2.0 
+sleep 0.00 
+beep -p 698  2.0 
+beep -p 523  2.0 
+sleep 0.00 
+beep -p 698  2.0 
+sleep 0.047 
+beep -p 174  9.5 
+sleep 0.047 
+beep -p 523  2.0 
+sleep 0.00 
+beep -p 698  2.0 
+beep -p 523  2.0 
+sleep 0.00 
+beep -p 698  2.0 
+sleep 0.047 
+beep -p 261  2.0 
+sleep 0.00 
+beep -p 349  2.0 
+sleep 0.00 
+beep -p 440  2.0 
+sleep 0.047 
+beep -p 261  9.4 
+sleep 0.047 
+beep -p 174  9.5 
+sleep 0.0190 
+beep -p 195  2.0 
+sleep 0.00 
+beep -p 391  2.0 
+sleep 0.00 
+beep -p 493  2.0 
+sleep 0.047 
+beep -p 195  2.0 
+sleep 0.00 
+beep -p 587  2.0 
+sleep 0.00 
+beep -p 698  2.0 
+sleep 0.0190 
+beep -p 195  2.0 
+sleep 0.00 
+beep -p 587  2.0 
+sleep 0.00 
+beep -p 698  2.0 
+sleep 0.047 
+beep -p 195  2.0 
+sleep 0.00 
+beep -p 587  2.0 
+sleep 0.00 
+beep -p 698  2.0 
+sleep 0.095 
+beep -p 220  2.0 
+sleep 0.00 
+beep -p 523  2.0 
+sleep 0.00 
+beep -p 659  2.0 
+sleep 0.095 
+beep -p 246  2.0 
+sleep 0.00 
+beep -p 493  2.0 
+sleep 0.00 
+beep -p 587  2.0 
+sleep 0.095 
+beep -p 261  2.0 
+sleep 0.00 
+beep -p 391  2.0 
+sleep 0.00 
+beep -p 523  2.0 
+sleep 0.047 
+beep -p 329  9.5 
+sleep 0.047 
+beep -p 195  9.5 
+sleep 0.047 
+beep -p 329  9.5 
+sleep 0.047 
+beep -p 130  2.0 
+sleep 0.00 
+beep -p 261  2.0 
+beep -p 130  2.0 
+sleep 0.00 
+beep -p 261  2.0 
+sleep 0.0475 
+beep -p 103  2.0 
+sleep 0.00 
+beep -p 415  2.0 
+sleep 0.00 
+beep -p 523  2.0 
+sleep 0.047 
+beep -p 415  2.0 
+sleep 0.00 
+beep -p 523  2.0 
+beep -p 415  2.0 
+sleep 0.00 
+beep -p 523  2.0 
+sleep 0.0189 
+beep -p 155  2.0 
+sleep 0.00 
+beep -p 415  2.0 
+sleep 0.00 
+beep -p 523  2.0 
+sleep 0.0190 
+beep -p 415  2.0 
+sleep 0.00 
+beep -p 523  2.0 
+beep -p 415  2.0 
+sleep 0.00 
+beep -p 523  2.0 
+sleep 0.047 
+beep -p 207  2.0 
+sleep 0.00 
+beep -p 466  2.0 
+sleep 0.00 
+beep -p 587  2.0 
+sleep 0.0190 
+beep -p 195  2.0 
+sleep 0.00 
+beep -p 391  2.0 
+sleep 0.00 
+beep -p 659  2.0 
+sleep 0.047 
+beep -p 329  2.0 
+sleep 0.00 
+beep -p 523  2.0 
+beep -p 329  2.0 
+sleep 0.00 
+beep -p 523  2.0 
+sleep 0.0190 
+beep -p 130  2.0 
+sleep 0.00 
+beep -p 329  2.0 
+sleep 0.00 
+beep -p 440  2.0 
+sleep 0.047 
+beep -p 261  2.0 
+sleep 0.00 
+beep -p 391  2.0 
+beep -p 261  2.0 
+sleep 0.00 
+beep -p 391  2.0 
+sleep 0.0189 
+beep -p 97  9.5 
+sleep 0.0189 
+beep -p 103  2.0 
+sleep 0.00 
+beep -p 415  2.0 
+sleep 0.00 
+beep -p 523  2.0 
+sleep 0.047 
+beep -p 415  2.0 
+sleep 0.00 
+beep -p 523  2.0 
+beep -p 415  2.0 
+sleep 0.00 
+beep -p 523  2.0 
+sleep 0.0189 
+beep -p 155  2.0 
+sleep 0.00 
+beep -p 415  2.0 
+sleep 0.00 
+beep -p 523  2.0 
+sleep 0.0190 
+beep -p 415  2.0 
+sleep 0.00 
+beep -p 523  2.0 
+beep -p 415  2.0 
+sleep 0.00 
+beep -p 523  2.0 
+sleep 0.047 
+beep -p 207  2.0 
+sleep 0.00 
+beep -p 466  2.0 
+sleep 0.00 
+beep -p 587  2.0 
+sleep 0.047 
+beep -p 391  2.0 
+sleep 0.00 
+beep -p 659  2.0 
+beep -p 391  2.0 
+sleep 0.00 
+beep -p 659  2.0 
+sleep 0.047 
+beep -p 195  9.5 
+sleep 0.0333 
+beep -p 130  9.5 
+sleep 0.0332 
+beep -p 97  9.5 
+sleep 0.0189 
+beep -p 103  2.0 
+sleep 0.00 
+beep -p 415  2.0 
+sleep 0.00 
+beep -p 523  2.0 
+sleep 0.047 
+beep -p 415  2.0 
+sleep 0.00 
+beep -p 523  2.0 
+beep -p 415  2.0 
+sleep 0.00 
+beep -p 523  2.0 
+sleep 0.0189 
+beep -p 155  2.0 
+sleep 0.00 
+beep -p 415  2.0 
+sleep 0.00 
+beep -p 523  2.0 
+sleep 0.0190 
+beep -p 415  2.0 
+sleep 0.00 
+beep -p 523  2.0 
+beep -p 415  2.0 
+sleep 0.00 
+beep -p 523  2.0 
+sleep 0.047 
+beep -p 207  2.0 
+sleep 0.00 
+beep -p 466  2.0 
+sleep 0.00 
+beep -p 587  2.0 
+sleep 0.0190 
+beep -p 195  2.0 
+sleep 0.00 
+beep -p 391  2.0 
+sleep 0.00 
+beep -p 659  2.0 
+sleep 0.047 
+beep -p 329  2.0 
+sleep 0.00 
+beep -p 523  2.0 
+beep -p 329  2.0 
+sleep 0.00 
+beep -p 523  2.0 
+sleep 0.0190 
+beep -p 130  2.0 
+sleep 0.00 
+beep -p 329  2.0 
+sleep 0.00 
+beep -p 440  2.0 
+sleep 0.047 
+beep -p 261  2.0 
+sleep 0.00 
+beep -p 391  2.0 
+beep -p 261  2.0 
+sleep 0.00 
+beep -p 391  2.0 
+sleep 0.0189 
+beep -p 97  9.5 
+sleep 0.0189 
+beep -p 146  2.0 
+sleep 0.00 
+beep -p 369  2.0 
+sleep 0.00 
+beep -p 659  2.0 
+sleep 0.047 
+beep -p 146  2.0 
+sleep 0.00 
+beep -p 369  2.0 
+sleep 0.00 
+beep -p 659  2.0 
+sleep 0.0189 
+beep -p 146  2.0 
+sleep 0.00 
+beep -p 369  2.0 
+sleep 0.00 
+beep -p 659  2.0 
+sleep 0.0190 
+beep -p 146  2.0 
+sleep 0.00 
+beep -p 369  2.0 
+sleep 0.00 
+beep -p 523  2.0 
+sleep 0.047 
+beep -p 146  2.0 
+sleep 0.00 
+beep -p 369  2.0 
+sleep 0.00 
+beep -p 659  2.0 
+sleep 0.0190 
+beep -p 391  2.0 
+sleep 0.00 
+beep -p 493  2.0 
+sleep 0.00 
+beep -p 783  2.0 
+sleep 0.0475 
+beep -p 195  2.0 
+sleep 0.00 
+beep -p 391  2.0 
+beep -p 195  2.0 
+sleep 0.00 
+beep -p 391  2.0 
+sleep 0.0473 
+beep -p 130  2.0 
+sleep 0.00 
+beep -p 523  2.0 
+sleep 0.00 
+beep -p 659  2.0 
+sleep 0.047 
+beep -p 440  2.0 
+sleep 0.00 
+beep -p 523  2.0 
+beep -p 440  2.0 
+sleep 0.00 
+beep -p 523  2.0 
+sleep 0.0190 
+beep -p 184  2.0 
+sleep 0.00 
+beep -p 329  2.0 
+sleep 0.00 
+beep -p 391  2.0 
+sleep 0.047 
+beep -p 195  9.5 
+sleep 0.0190 
+beep -p 261  2.0 
+sleep 0.00 
+beep -p 329  2.0 
+sleep 0.00 
+beep -p 415  2.0 
+sleep 0.0190 
+beep -p 174  2.0 
+sleep 0.00 
+beep -p 349  2.0 
+sleep 0.00 
+beep -p 440  2.0 
+sleep 0.047 
+beep -p 523  2.0 
+sleep 0.00 
+beep -p 698  2.0 
+beep -p 523  2.0 
+sleep 0.00 
+beep -p 698  2.0 
+sleep 0.047 
+beep -p 174  9.5 
+sleep 0.047 
+beep -p 523  2.0 
+sleep 0.00 
+beep -p 698  2.0 
+beep -p 523  2.0 
+sleep 0.00 
+beep -p 698  2.0 
+sleep 0.047 
+beep -p 261  2.0 
+sleep 0.00 
+beep -p 349  2.0 
+sleep 0.00 
+beep -p 440  2.0 
+sleep 0.047 
+beep -p 261  9.4 
+sleep 0.047 
+beep -p 174  9.5 
+sleep 0.0190 
+beep -p 146  2.0 
+sleep 0.00 
+beep -p 391  2.0 
+sleep 0.00 
+beep -p 493  2.0 
+sleep 0.095 
+beep -p 698  2.0 
+sleep 0.00 
+beep -p 880  2.0 
+beep -p 698  2.0 
+sleep 0.00 
+beep -p 880  2.0 
+sleep 0.095 
+beep -p 698  2.0 
+sleep 0.00 
+beep -p 880  2.0 
+sleep 0.00 
+beep -p 174  1.5 
+sleep 0.00 
+beep -p 698  1.5 
+sleep 0.00 
+beep -p 880  1.5 
+sleep 0.00 
+beep -p 174  4.7 
+sleep 0.047 
+beep -p 195  2.0 
+sleep 0.00 
+beep -p 698  2.0 
+sleep 0.00 
+beep -p 880  2.0 
+sleep 0.095 
+beep -p 659  2.0 
+sleep 0.00 
+beep -p 783  2.0 
+beep -p 659  2.0 
+sleep 0.00 
+beep -p 783  2.0 
+sleep 0.00 
+beep -p 246  9.5 
+sleep 0.00 
+beep -p 587  2.0 
+sleep 0.00 
+beep -p 698  2.0 
+beep -p 587  2.0 
+sleep 0.00 
+beep -p 698  2.0 
+sleep 0.095 
+beep -p 195  2.0 
+sleep 0.00 
+beep -p 523  2.0 
+sleep 0.00 
+beep -p 659  2.0 
+sleep 0.047 
+beep -p 440  2.0 
+sleep 0.00 
+beep -p 523  2.0 
+beep -p 440  2.0 
+sleep 0.00 
+beep -p 523  2.0 
+sleep 0.047 
+beep -p 195  9.5 
+sleep 0.047 
+beep -p 349  2.0 
+sleep 0.00 
+beep -p 440  2.0 
+beep -p 349  2.0 
+sleep 0.00 
+beep -p 440  2.0 
+sleep 0.047 
+beep -p 261  2.0 
+sleep 0.00 
+beep -p 329  2.0 
+sleep 0.00 
+beep -p 391  2.0 
+sleep 0.047 
+beep -p 261  9.4 
+sleep 0.047 
+beep -p 195  9.5 
+sleep 0.0190 
+beep -p 130  2.0 
+sleep 0.00 
+beep -p 523  2.0 
+sleep 0.00 
+beep -p 659  2.0 
+sleep 0.047 
+beep -p 440  2.0 
+sleep 0.00 
+beep -p 523  2.0 
+beep -p 440  2.0 
+sleep 0.00 
+beep -p 523  2.0 
+sleep 0.0190 
+beep -p 184  2.0 
+sleep 0.00 
+beep -p 329  2.0 
+sleep 0.00 
+beep -p 391  2.0 
+sleep 0.047 
+beep -p 195  9.5 
+sleep 0.0190 
+beep -p 261  2.0 
+sleep 0.00 
+beep -p 329  2.0 
+sleep 0.00 
+beep -p 415  2.0 
+sleep 0.0190 
+beep -p 174  2.0 
+sleep 0.00 
+beep -p 349  2.0 
+sleep 0.00 
+beep -p 440  2.0 
+sleep 0.047 
+beep -p 523  2.0 
+sleep 0.00 
+beep -p 698  2.0 
+beep -p 523  2.0 
+sleep 0.00 
+beep -p 698  2.0 
+sleep 0.047 
+beep -p 174  9.5 
+sleep 0.047 
+beep -p 523  2.0 
+sleep 0.00 
+beep -p 698  2.0 
+beep -p 523  2.0 
+sleep 0.00 
+beep -p 698  2.0 
+sleep 0.047 
+beep -p 261  2.0 
+sleep 0.00 
+beep -p 349  2.0 
+sleep 0.00 
+beep -p 440  2.0 
+sleep 0.047 
+beep -p 261  9.4 
+sleep 0.047 
+beep -p 174  9.5 
+sleep 0.0190 
+beep -p 195  2.0 
+sleep 0.00 
+beep -p 391  2.0 
+sleep 0.00 
+beep -p 493  2.0 
+sleep 0.047 
+beep -p 195  2.0 
+sleep 0.00 
+beep -p 587  2.0 
+sleep 0.00 
+beep -p 698  2.0 
+sleep 0.0190 
+beep -p 195  2.0 
+sleep 0.00 
+beep -p 587  2.0 
+sleep 0.00 
+beep -p 698  2.0 
+sleep 0.047 
+beep -p 195  2.0 
+sleep 0.00 
+beep -p 587  2.0 
+sleep 0.00 
+beep -p 698  2.0 
+sleep 0.095 
+beep -p 220  2.0 
+sleep 0.00 
+beep -p 523  2.0 
+sleep 0.00 
+beep -p 659  2.0 
+sleep 0.095 
+beep -p 246  2.0 
+sleep 0.00 
+beep -p 493  2.0 
+sleep 0.00 
+beep -p 587  2.0 
+sleep 0.095 
+beep -p 261  2.0 
+sleep 0.00 
+beep -p 391  2.0 
+sleep 0.00 
+beep -p 523  2.0 
+sleep 0.047 
+beep -p 329  9.5 
+sleep 0.047 
+beep -p 195  9.5 
+sleep 0.047 
+beep -p 329  9.5 
+sleep 0.047 
+beep -p 130  2.0 
+sleep 0.00 
+beep -p 261  2.0 
+beep -p 130  2.0 
+sleep 0.00 
+beep -p 261  2.0
+
