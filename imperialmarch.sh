@@ -1,2 +1,133 @@
 # http://lime-technology.com/forum/index.php?topic=10749.20;wap2
-beep -l 350 -f 392 -D 100 -n -l 350 -f 392 -D 100 -n -l 350 -f 392 -D 100 -n -l 250 -f 311.1 -D 100 -n -l 25 -f 466.2 -D 100 -n -l 350 -f 392 -D 100 -n -l 250 -f 311.1 -D 100 -n -l 25 -f 466.2 -D 100 -n -l 700 -f 392 -D 100 -n -l 350 -f 587.32 -D 100 -n -l 350 -f 587.32 -D 100 -n -l 350 -f 587.32 -D 100 -n -l 250 -f 622.26 -D 100 -n -l 25 -f 466.2 -D 100 -n -l 350 -f 369.99 -D 100 -n -l 250 -f 311.1 -D 100 -n -l 25 -f 466.2 -D 100 -n -l 700 -f 392 -D 100 -n -l 350 -f 784 -D 100 -n -l 250 -f 392 -D 100 -n -l 25 -f 392 -D 100 -n -l 350 -f 784 -D 100 -n -l 250 -f 739.98 -D 100 -n -l 25 -f 698.46 -D 100 -n -l 25 -f 659.26 -D 100 -n -l 25 -f 622.26 -D 100 -n -l 50 -f 659.26 -D 400 -n -l 25 -f 415.3 -D 200 -n -l 350 -f 554.36 -D 100 -n -l 250 -f 523.25 -D 100 -n -l 25 -f 493.88 -D 100 -n -l 25 -f 466.16 -D 100 -n -l 25 -f 440 -D 100 -n -l 50 -f 466.16 -D 400 -n -l 25 -f 311.13 -D 200 -n -l 350 -f 369.99 -D 100 -n -l 250 -f 311.13 -D 100 -n -l 25 -f 392 -D 100 -n -l 350 -f 466.16 -D 100 -n -l 250 -f 392 -D 100 -n -l 25 -f 466.16 -D 100 -n -l 700 -f 587.32 -D 100 -n -l 350 -f 784 -D 100 -n -l 250 -f 392 -D 100 -n -l 25 -f 392 -D 100 -n -l 350 -f 784 -D 100 -n -l 250 -f 739.98 -D 100 -n -l 25 -f 698.46 -D 100 -n -l 25 -f 659.26 -D 100 -n -l 25 -f 622.26 -D 100 -n -l 50 -f 659.26 -D 400 -n -l 25 -f 415.3 -D 200 -n -l 350 -f 554.36 -D 100 -n -l 250 -f 523.25 -D 100 -n -l 25 -f 493.88 -D 100 -n -l 25 -f 466.16 -D 100 -n -l 25 -f 440 -D 100 -n -l 50 -f 466.16 -D 400 -n -l 25 -f 311.13 -D 200 -n -l 350 -f 392 -D 100 -n -l 250 -f 311.13 -D 100 -n -l 25 -f 466.16 -D 100 -n -l 300 -f 392.00 -D 150 -n -l 250 -f 311.13 -D 100 -n -l 25 -f 466.16 -D 100 -n -l 700 -f 392
+beep -p 392  35.0
+sleep 0.0100 
+beep -p 392  35.0
+sleep 0.0100 
+beep -p 392  35.0
+sleep 0.0100 
+beep -p 311.1  25.0
+sleep 0.0100 
+beep -p 466.2   2.5
+sleep 0.0100 
+beep -p 392  35.0
+sleep 0.0100 
+beep -p 311.1  25.0
+sleep 0.0100 
+beep -p 466.2   2.5
+sleep 0.0100 
+beep -p 392  70.0
+sleep 0.0100 
+beep -p 587.32  35.0
+sleep 0.0100 
+beep -p 587.32  35.0
+sleep 0.0100 
+beep -p 587.32  35.0
+sleep 0.0100 
+beep -p 622.26  25.0
+sleep 0.0100 
+beep -p 466.2   2.5
+sleep 0.0100 
+beep -p 369.99  35.0
+sleep 0.0100 
+beep -p 311.1  25.0
+sleep 0.0100 
+beep -p 466.2   2.5
+sleep 0.0100 
+beep -p 392  70.0
+sleep 0.0100 
+beep -p 784  35.0
+sleep 0.0100 
+beep -p 392  25.0
+sleep 0.0100 
+beep -p 392   2.5
+sleep 0.0100 
+beep -p 784  35.0
+sleep 0.0100 
+beep -p 739.98  25.0
+sleep 0.0100 
+beep -p 698.46   2.5
+sleep 0.0100 
+beep -p 659.26   2.5
+sleep 0.0100 
+beep -p 622.26   2.5
+sleep 0.0100 
+beep -p 659.26   5.0
+sleep 0.0400 
+beep -p 415.3   2.5
+sleep 0.0200 
+beep -p 554.36  35.0
+sleep 0.0100 
+beep -p 523.25  25.0
+sleep 0.0100 
+beep -p 493.88   2.5
+sleep 0.0100 
+beep -p 466.16   2.5
+sleep 0.0100 
+beep -p 440   2.5
+sleep 0.0100 
+beep -p 466.16   5.0
+sleep 0.0400 
+beep -p 311.13   2.5
+sleep 0.0200 
+beep -p 369.99  35.0
+sleep 0.0100 
+beep -p 311.13  25.0
+sleep 0.0100 
+beep -p 392   2.5
+sleep 0.0100 
+beep -p 466.16  35.0
+sleep 0.0100 
+beep -p 392  25.0
+sleep 0.0100 
+beep -p 466.16   2.5
+sleep 0.0100 
+beep -p 587.32  70.0
+sleep 0.0100 
+beep -p 784  35.0
+sleep 0.0100 
+beep -p 392  25.0
+sleep 0.0100 
+beep -p 392   2.5
+sleep 0.0100 
+beep -p 784  35.0
+sleep 0.0100 
+beep -p 739.98  25.0
+sleep 0.0100 
+beep -p 698.46   2.5
+sleep 0.0100 
+beep -p 659.26   2.5
+sleep 0.0100 
+beep -p 622.26   2.5
+sleep 0.0100 
+beep -p 659.26   5.0
+sleep 0.0400 
+beep -p 415.3   2.5
+sleep 0.0200 
+beep -p 554.36  35.0
+sleep 0.0100 
+beep -p 523.25  25.0
+sleep 0.0100 
+beep -p 493.88   2.5
+sleep 0.0100 
+beep -p 466.16   2.5
+sleep 0.0100 
+beep -p 440   2.5
+sleep 0.0100 
+beep -p 466.16   5.0
+sleep 0.0400 
+beep -p 311.13   2.5
+sleep 0.0200 
+beep -p 392  35.0
+sleep 0.0100 
+beep -p 311.13  25.0
+sleep 0.0100 
+beep -p 466.16   2.5
+sleep 0.0100 
+beep -p 392.00  30.0
+sleep 0.0150 
+beep -p 311.13  25.0
+sleep 0.0100 
+beep -p 466.16   2.5
+sleep 0.0100 
+beep -p 392 70.0
+
